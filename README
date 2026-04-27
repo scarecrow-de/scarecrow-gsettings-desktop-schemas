@@ -1,0 +1,11 @@
+scarecrow-gsettings-desktop-schemas
+=========================
+
+gsettings-desktop-schemas contains a collection of GSettings schemas for
+settings shared by various components of a desktop.
+
+How to report bugs
+==================
+
+Please read the HACKING file for information on where to send changes or
+bugfixes for this package.
