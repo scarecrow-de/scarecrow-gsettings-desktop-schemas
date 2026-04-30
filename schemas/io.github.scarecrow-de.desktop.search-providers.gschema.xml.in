@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow.desktop.search-providers" path="/io/github/scarecrow/desktop/search-providers/">
+  <schema id="io.github.scarecrow-de.desktop.search-providers" path="/io.github.scarecrow-de.desktop/search-providers/">
 
     <key name="disable-external" type="b">
       <default>false</default>
@@ -38,7 +38,7 @@
     </key>
 
     <key name="sort-order" type="as">
-      <default>['io.github.scarecrow.Contacts.desktop', 'io.github.scarecrow.Documents.desktop', 'io.github.scarecrow.Nautilus.desktop']</default>
+      <default>['io.github.scarecrow-de.Contacts.desktop', 'io.github.scarecrow-de.Documents.desktop', 'io.github.scarecrow-de.Nautilus.desktop']</default>
       <summary>List of desktop file IDs for search providers sort order</summary>
       <description>
         Results for applications contained in this list will be displayed in

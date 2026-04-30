@@ -5,13 +5,13 @@ headers = files(
 install_headers(headers, subdir: gsettings_desktop_schemas_name)
 
 enums_xml = custom_target(
-  'io.github.scarecrow.desktop.enums.xml',
+  'io.github.scarecrow-de.desktop.enums.xml',
   input: headers,
-  output: 'io.github.scarecrow.desktop.enums.xml',
+  output: 'io.github.scarecrow-de.desktop.enums.xml',
   command: [glib_mkenums,
             '--comments', '<!-- @comment@ -->',
             '--fhead', '<schemalist>',
-            '--vhead', '<@type@ id="io.github.scarecrow.desktop.@EnumName@">',
+            '--vhead', '<@type@ id="io.github.scarecrow-de.desktop.@EnumName@">',
             '--vprod', '    <value nick="@valuenick@" value="@valuenum@"/>',
             '--vtail', '  </@type@>',
             '--ftail', '</schemalist>', '@INPUT@'],

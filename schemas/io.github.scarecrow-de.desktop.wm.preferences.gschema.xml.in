@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
 
-  <schema id="io.github.scarecrow.desktop.wm.preferences"
-          path="/io/github/scarecrow/desktop/wm/preferences/">
+  <schema id="io.github.scarecrow-de.desktop.wm.preferences"
+          path="/io.github.scarecrow-de.desktop/wm/preferences/">
     <key name="mouse-button-modifier" type="s">
       <default><![CDATA['<Super>']]></default>
       <summary>Modifier to use for modified window click actions</summary>
@@ -38,7 +38,7 @@
         two adjacent buttons.
       </description>
     </key>
-    <key name="focus-mode" enum="io.github.scarecrow.desktop.GDesktopFocusMode">
+    <key name="focus-mode" enum="io.github.scarecrow-de.desktop.GDesktopFocusMode">
       <default>'click'</default>
       <summary>Window focus mode</summary>
       <description>
@@ -50,7 +50,7 @@
       </description>
     </key>
     <key name="focus-new-windows"
-         enum="io.github.scarecrow.desktop.GDesktopFocusNewWindows">
+         enum="io.github.scarecrow-de.desktop.GDesktopFocusNewWindows">
       <default>'smart'</default>
       <summary>Control how new windows get focus</summary>
       <description>
@@ -77,7 +77,7 @@
       </description>
     </key>
     <key name="action-double-click-titlebar"
-         enum="io.github.scarecrow.desktop.GDesktopTitlebarAction">
+         enum="io.github.scarecrow-de.desktop.GDesktopTitlebarAction">
       <default>'toggle-maximize'</default>
       <summary>Action on title bar double-click</summary>
       <description>
@@ -103,7 +103,7 @@
       </aliases>
     </key>
     <key name="action-middle-click-titlebar"
-         enum="io.github.scarecrow.desktop.GDesktopTitlebarAction">
+         enum="io.github.scarecrow-de.desktop.GDesktopTitlebarAction">
       <default>'none'</default>
       <summary>Action on title bar middle-click</summary>
       <description>
@@ -129,7 +129,7 @@
       </aliases>
     </key>
     <key name="action-right-click-titlebar"
-         enum="io.github.scarecrow.desktop.GDesktopTitlebarAction">
+         enum="io.github.scarecrow-de.desktop.GDesktopTitlebarAction">
       <default>'menu'</default>
       <summary>Action on title bar right-click</summary>
       <description>
@@ -230,7 +230,7 @@
       </description>
     </key>
     <key name="visual-bell-type"
-         enum="io.github.scarecrow.desktop.GDesktopVisualBellType">
+         enum="io.github.scarecrow-de.desktop.GDesktopVisualBellType">
       <default>'fullscreen-flash'</default>
       <summary>Visual Bell Type</summary>
       <description>

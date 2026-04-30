@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow.desktop.thumbnail-cache" path="/io/github/scarecrow/desktop/thumbnail-cache/">
+  <schema id="io.github.scarecrow-de.desktop.thumbnail-cache" path="/io.github.scarecrow-de.desktop/thumbnail-cache/">
     <key name="maximum-age" type="i">
       <default>180</default>
       <description>Maximum age for thumbnails in the cache, in days. Set to -1 to disable cleaning.</description>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow.desktop.default-applications" path="/io/github/scarecrow/desktop/applications/">
-    <child name="office" schema="io.github.scarecrow.desktop.default-applications.office"/>
-    <child name="terminal" schema="io.github.scarecrow.desktop.default-applications.terminal"/>
+  <schema id="io.github.scarecrow-de.desktop.default-applications" path="/io.github.scarecrow-de.desktop/applications/">
+    <child name="office" schema="io.github.scarecrow-de.desktop.default-applications.office"/>
+    <child name="terminal" schema="io.github.scarecrow-de.desktop.default-applications.terminal"/>
   </schema>
-  <schema id="io.github.scarecrow.desktop.default-applications.office" path="/io/github/scarecrow/desktop/applications/office/">
-    <child name="calendar" schema="io.github.scarecrow.desktop.default-applications.office.calendar"/>
-    <child name="tasks" schema="io.github.scarecrow.desktop.default-applications.office.tasks"/>
+  <schema id="io.github.scarecrow-de.desktop.default-applications.office" path="/io.github.scarecrow-de.desktop/applications/office/">
+    <child name="calendar" schema="io.github.scarecrow-de.desktop.default-applications.office.calendar"/>
+    <child name="tasks" schema="io.github.scarecrow-de.desktop.default-applications.office.tasks"/>
   </schema>
-  <schema id="io.github.scarecrow.desktop.default-applications.office.calendar" path="/io/github/scarecrow/desktop/applications/office/calendar/">
+  <schema id="io.github.scarecrow-de.desktop.default-applications.office.calendar" path="/io.github.scarecrow-de.desktop/applications/office/calendar/">
     <key name="exec" type="s">
       <default>'evolution -c calendar'</default>
       <summary>Default calendar</summary>
@@ -31,7 +31,7 @@
       </description>
     </key>
   </schema>
-  <schema id="io.github.scarecrow.desktop.default-applications.office.tasks" path="/io/github/scarecrow/desktop/applications/office/tasks/">
+  <schema id="io.github.scarecrow-de.desktop.default-applications.office.tasks" path="/io.github.scarecrow-de.desktop/applications/office/tasks/">
     <key name="exec" type="s">
       <default>'evolution -c tasks'</default>
       <summary>Default tasks</summary>
@@ -47,7 +47,7 @@
       </description>
     </key>
   </schema>
-  <schema id="io.github.scarecrow.desktop.default-applications.terminal" path="/io/github/scarecrow/desktop/applications/terminal/">
+  <schema id="io.github.scarecrow-de.desktop.default-applications.terminal" path="/io.github.scarecrow-de.desktop/applications/terminal/">
     <key name="exec" type="s">
       <default>'gnome-terminal'</default>
       <summary>Terminal application</summary>
