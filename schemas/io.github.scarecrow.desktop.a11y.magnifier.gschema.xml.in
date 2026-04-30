@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
 
-  <schema id="org.gnome.desktop.a11y.magnifier"
-	  path="/org/gnome/desktop/a11y/magnifier/">
-    <key name="mouse-tracking" enum="org.gnome.desktop.GDesktopMagnifierMouseTrackingMode">
+  <schema id="io.github.scarecrow.desktop.a11y.magnifier"
+	  path="/io/github/scarecrow/desktop/a11y/magnifier/">
+    <key name="mouse-tracking" enum="io.github.scarecrow.desktop.GDesktopMagnifierMouseTrackingMode">
       <default>'proportional'</default>
       <summary>Mouse Tracking Mode</summary>
       <description>
@@ -21,7 +21,7 @@
         region, the contents are scrolled into view.
       </description>
     </key>
-    <key name="focus-tracking" enum="org.gnome.desktop.GDesktopMagnifierFocusTrackingMode">
+    <key name="focus-tracking" enum="io.github.scarecrow.desktop.GDesktopMagnifierFocusTrackingMode">
       <default>'proportional'</default>
       <summary>Focus Tracking Mode</summary>
       <description>
@@ -41,7 +41,7 @@
           into view
     </description>
     </key>
-    <key name="caret-tracking" enum="org.gnome.desktop.GDesktopMagnifierCaretTrackingMode">
+    <key name="caret-tracking" enum="io.github.scarecrow.desktop.GDesktopMagnifierCaretTrackingMode">
       <default>'centered'</default>
       <summary>Caret Tracking Mode</summary>
       <description>
@@ -59,7 +59,7 @@
         view
       </description>
     </key>
-    <key name="screen-position" enum="org.gnome.desktop.GDesktopMagnifierScreenPosition">
+    <key name="screen-position" enum="io.github.scarecrow.desktop.GDesktopMagnifierScreenPosition">
       <default>'full-screen'</default>
       <summary>Screen position</summary>
       <description>

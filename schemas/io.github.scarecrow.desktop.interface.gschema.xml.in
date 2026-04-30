@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="org.gnome.desktop.interface" path="/org/gnome/desktop/interface/">
+  <schema id="io.github.scarecrow.desktop.interface" path="/io/github/scarecrow/desktop/interface/">
     <key name="toolkit-accessibility" type="b">
       <default>false</default>
       <summary>Enable Toolkit Accessibility</summary>
@@ -31,7 +31,7 @@
         positioned over an active menuitem.
       </description>
     </key>
-    <key name="toolbar-style" enum="org.gnome.desktop.GDesktopToolbarStyle">
+    <key name="toolbar-style" enum="io.github.scarecrow.desktop.GDesktopToolbarStyle">
       <default>'both-horiz'</default>
       <summary>Toolbar Style</summary>
       <description>
@@ -53,7 +53,7 @@
         Whether the user can detach toolbars and move them around.
       </description>
     </key>
-    <key name="toolbar-icons-size" enum="org.gnome.desktop.GDesktopToolbarIconSize">
+    <key name="toolbar-icons-size" enum="io.github.scarecrow.desktop.GDesktopToolbarIconSize">
       <default>'large'</default>
       <summary>Toolbar Icon Size</summary>
       <description>
@@ -207,7 +207,7 @@
       <summary>List of symbolic names and color equivalents</summary>
       <description>A “\n” separated list of “name:color” as defined by the “gtk-color-scheme” setting</description>
     </key>
-    <key name="clock-format" enum="org.gnome.desktop.GDesktopClockFormat">
+    <key name="clock-format" enum="io.github.scarecrow.desktop.GDesktopClockFormat">
       <default>'24h'</default>
       <summary>Whether the clock displays in 24h or 12h format</summary>
       <description>

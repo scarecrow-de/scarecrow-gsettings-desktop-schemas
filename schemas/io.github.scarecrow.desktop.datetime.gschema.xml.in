@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="org.gnome.desktop.datetime" path="/org/gnome/desktop/datetime/">
+  <schema id="io.github.scarecrow.desktop.datetime" path="/io/github/scarecrow/desktop/datetime/">
     <key name="automatic-timezone" type="b">
       <default>false</default>
       <summary>Automatically update timezone</summary>

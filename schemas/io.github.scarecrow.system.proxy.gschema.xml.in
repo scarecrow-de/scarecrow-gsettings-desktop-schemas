@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="org.gnome.system.proxy" path="/system/proxy/">
-    <child name="http" schema="org.gnome.system.proxy.http"/>
-    <child name="https" schema="org.gnome.system.proxy.https"/>
-    <child name="ftp" schema="org.gnome.system.proxy.ftp"/>
-    <child name="socks" schema="org.gnome.system.proxy.socks"/>
-    <key name="mode" enum="org.gnome.desktop.GDesktopProxyMode">
+  <schema id="io.github.scarecrow.system.proxy" path="/system/proxy/">
+    <child name="http" schema="io.github.scarecrow.system.proxy.http"/>
+    <child name="https" schema="io.github.scarecrow.system.proxy.https"/>
+    <child name="ftp" schema="io.github.scarecrow.system.proxy.ftp"/>
+    <child name="socks" schema="io.github.scarecrow.system.proxy.socks"/>
+    <key name="mode" enum="io.github.scarecrow.desktop.GDesktopProxyMode">
       <default>'none'</default>
       <summary>Proxy configuration mode</summary>
       <description>
@@ -59,7 +59,7 @@
       </description>
     </key>
   </schema>
-  <schema id="org.gnome.system.proxy.http" path="/system/proxy/http/">
+  <schema id="io.github.scarecrow.system.proxy.http" path="/system/proxy/http/">
     <key name="enabled" type="b">
       <default>false</default>
       <summary>Unused; ignore</summary>
@@ -113,7 +113,7 @@
       </description>
     </key>
   </schema>
-  <schema id="org.gnome.system.proxy.https" path="/system/proxy/https/">
+  <schema id="io.github.scarecrow.system.proxy.https" path="/system/proxy/https/">
     <key name="host" type="s">
       <default>''</default>
       <summary>Secure HTTP proxy host name</summary>
@@ -131,7 +131,7 @@
       </description>
     </key>
   </schema>
-  <schema id="org.gnome.system.proxy.ftp" path="/system/proxy/ftp/">
+  <schema id="io.github.scarecrow.system.proxy.ftp" path="/system/proxy/ftp/">
     <key name="host" type="s">
       <default>''</default>
       <summary>FTP proxy host name</summary>
@@ -149,7 +149,7 @@
       </description>
     </key>
   </schema>
-  <schema id="org.gnome.system.proxy.socks" path="/system/proxy/socks/">
+  <schema id="io.github.scarecrow.system.proxy.socks" path="/system/proxy/socks/">
     <key name="host" type="s">
       <default>''</default>
       <summary>SOCKS proxy host name</summary>

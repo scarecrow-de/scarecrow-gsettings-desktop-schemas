@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="org.gnome.desktop.default-applications" path="/org/gnome/desktop/applications/">
-    <child name="office" schema="org.gnome.desktop.default-applications.office"/>
-    <child name="terminal" schema="org.gnome.desktop.default-applications.terminal"/>
+  <schema id="io.github.scarecrow.desktop.default-applications" path="/io/github/scarecrow/desktop/applications/">
+    <child name="office" schema="io.github.scarecrow.desktop.default-applications.office"/>
+    <child name="terminal" schema="io.github.scarecrow.desktop.default-applications.terminal"/>
   </schema>
-  <schema id="org.gnome.desktop.default-applications.office" path="/org/gnome/desktop/applications/office/">
-    <child name="calendar" schema="org.gnome.desktop.default-applications.office.calendar"/>
-    <child name="tasks" schema="org.gnome.desktop.default-applications.office.tasks"/>
+  <schema id="io.github.scarecrow.desktop.default-applications.office" path="/io/github/scarecrow/desktop/applications/office/">
+    <child name="calendar" schema="io.github.scarecrow.desktop.default-applications.office.calendar"/>
+    <child name="tasks" schema="io.github.scarecrow.desktop.default-applications.office.tasks"/>
   </schema>
-  <schema id="org.gnome.desktop.default-applications.office.calendar" path="/org/gnome/desktop/applications/office/calendar/">
+  <schema id="io.github.scarecrow.desktop.default-applications.office.calendar" path="/io/github/scarecrow/desktop/applications/office/calendar/">
     <key name="exec" type="s">
       <default>'evolution -c calendar'</default>
       <summary>Default calendar</summary>
@@ -31,7 +31,7 @@
       </description>
     </key>
   </schema>
-  <schema id="org.gnome.desktop.default-applications.office.tasks" path="/org/gnome/desktop/applications/office/tasks/">
+  <schema id="io.github.scarecrow.desktop.default-applications.office.tasks" path="/io/github/scarecrow/desktop/applications/office/tasks/">
     <key name="exec" type="s">
       <default>'evolution -c tasks'</default>
       <summary>Default tasks</summary>
@@ -47,7 +47,7 @@
       </description>
     </key>
   </schema>
-  <schema id="org.gnome.desktop.default-applications.terminal" path="/org/gnome/desktop/applications/terminal/">
+  <schema id="io.github.scarecrow.desktop.default-applications.terminal" path="/io/github/scarecrow/desktop/applications/terminal/">
     <key name="exec" type="s">
       <default>'gnome-terminal'</default>
       <summary>Terminal application</summary>

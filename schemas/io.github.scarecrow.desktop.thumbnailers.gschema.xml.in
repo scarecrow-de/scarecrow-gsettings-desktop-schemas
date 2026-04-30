@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="org.gnome.desktop.thumbnailers" path="/org/gnome/desktop/thumbnailers/">
+  <schema id="io.github.scarecrow.desktop.thumbnailers" path="/io/github/scarecrow/desktop/thumbnailers/">
     <key name="disable-all" type="b">
       <default>false</default>
       <summary>Disable all external thumbnailers</summary>

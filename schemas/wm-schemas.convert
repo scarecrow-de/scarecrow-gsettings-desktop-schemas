@@ -1,5 +1,5 @@
-# From org.gnome.desktop.wm.preferences
-[org.gnome.desktop.wm.preferences]
+# From io.github.scarecrow.desktop.wm.preferences
+[io.github.scarecrow.desktop.wm.preferences]
 mouse-button-modifier = /apps/metacity/general/mouse_button_modifier
 resize-with-right-button = /apps/metacity/general/resize_with_right_button
 button-layout = /apps/metacity/general/button_layout
@@ -22,8 +22,8 @@ application-based = /apps/metacity/general/application_based
 disable-workarounds = /apps/metacity/general/disable_workarounds
 workspace-names = /apps/metacity/general/workspace_names
 
-# From org.gnome.desktop.wm.keybindings
-[org.gnome.desktop.wm.keybindings]
+# From io.github.scarecrow.desktop.wm.keybindings
+[io.github.scarecrow.desktop.wm.keybindings]
 switch-to-workspace-1 = /apps/metacity/global_keybindings/switch-to-workspace-1
 switch-to-workspace-2 = /apps/metacity/global_keybindings/switch-to-workspace-2
 switch-to-workspace-3 = /apps/metacity/global_keybindings/switch-to-workspace-3

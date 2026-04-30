@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="org.gnome.desktop.background" path="/org/gnome/desktop/background/">
-    <key name="picture-options" enum="org.gnome.desktop.GDesktopBackgroundStyle">
+  <schema id="io.github.scarecrow.desktop.background" path="/io/github/scarecrow/desktop/background/">
+    <key name="picture-options" enum="io.github.scarecrow.desktop.GDesktopBackgroundStyle">
       <default>'zoom'</default>
       <summary>Picture Options</summary>
       <description>
@@ -40,7 +40,7 @@
         Right or Bottom color when drawing gradients, not used for solid color.
       </description>
     </key>
-    <key name="color-shading-type" enum="org.gnome.desktop.GDesktopBackgroundShading">
+    <key name="color-shading-type" enum="io.github.scarecrow.desktop.GDesktopBackgroundShading">
       <default>'solid'</default>
       <summary>Color Shading Type</summary>
       <description>

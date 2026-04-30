@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="org.gnome.desktop.a11y.mouse" path="/org/gnome/desktop/a11y/mouse/">
+  <schema id="io.github.scarecrow.desktop.a11y.mouse" path="/io/github/scarecrow/desktop/a11y/mouse/">
     <key name="dwell-time" type="d">
       <default>1.20</default>
       <summary>Dwell click time</summary>
@@ -11,27 +11,27 @@
       <summary>Movement threshold</summary>
       <description>Distance in pixels before movement will be recognized.</description>
     </key>
-    <key name="dwell-gesture-single" enum="org.gnome.desktop.GDesktopMouseDwellDirection">
+    <key name="dwell-gesture-single" enum="io.github.scarecrow.desktop.GDesktopMouseDwellDirection">
       <default>'left'</default>
       <summary>Gesture single click</summary>
       <description>Direction to perform a single click (“left”, “right”, “up”, “down”).</description>
     </key>
-    <key name="dwell-gesture-double" enum="org.gnome.desktop.GDesktopMouseDwellDirection">
+    <key name="dwell-gesture-double" enum="io.github.scarecrow.desktop.GDesktopMouseDwellDirection">
       <default>'up'</default>
       <summary>Gesture double click</summary>
       <description>Direction to perform a double click (“left”, “right”, “up”, “down”).</description>
     </key>
-    <key name="dwell-gesture-drag" enum="org.gnome.desktop.GDesktopMouseDwellDirection">
+    <key name="dwell-gesture-drag" enum="io.github.scarecrow.desktop.GDesktopMouseDwellDirection">
       <default>'down'</default>
       <summary>Gesture drag click</summary>
       <description>Direction to perform dragging (“left”, “right”, “up”, “down”).</description>
     </key>
-    <key name="dwell-gesture-secondary" enum="org.gnome.desktop.GDesktopMouseDwellDirection">
+    <key name="dwell-gesture-secondary" enum="io.github.scarecrow.desktop.GDesktopMouseDwellDirection">
       <default>'right'</default>
       <summary>Gesture secondary click</summary>
       <description>Direction to perform a secondary click (“left”, “right”, “up”, “down”).</description>
     </key>
-    <key name="dwell-mode" enum="org.gnome.desktop.GDesktopMouseDwellMode">
+    <key name="dwell-mode" enum="io.github.scarecrow.desktop.GDesktopMouseDwellMode">
       <default>'window'</default>
       <summary>Dwell click mode</summary>
       <description>The active dwell click mode. Possible values are “window” and “gesture”.</description>
