@@ -19,48 +19,48 @@ msgstr ""
 "X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.applications.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.applications.gschema.xml.in.in.h:1
 msgid "On-screen keyboard"
 msgstr "ऑनस्क्रीन कुंजीपटल"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.applications.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.applications.gschema.xml.in.in.h:2
 msgid "Whether the on-screen keyboard is turned on."
 msgstr "क्या परदे पर कुंजीपटल चालू है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.applications.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.applications.gschema.xml.in.in.h:3
 msgid "Screen magnifier"
 msgstr "स्क्रीन आवर्द्धक"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.applications.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.applications.gschema.xml.in.in.h:4
 msgid "Whether the screen magnifier is turned on."
 msgstr "क्या स्क्रीन आवर्धक चालू है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.applications.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.applications.gschema.xml.in.in.h:5
 msgid "Screen reader"
 msgstr "स्क्रीन रीडर"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.applications.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.applications.gschema.xml.in.in.h:6
 msgid "Whether the screen reader is turned on."
 msgstr "क्या स्क्रीन पाठक चालू है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:1
 msgid "Enable accessibility keyboard shortcuts"
 msgstr "पहुँच कीबोर्ड शॉर्टकट सक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:2
 msgid "Beep when a keyboard accessibility feature changes"
 msgstr "बीप करें जब एक कुंजीपटल पहुँच में बदलाव हों"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:3
 msgid ""
 "Whether to beep when a keyboard accessibility feature is enabled or disabled."
 msgstr "क्या बीप करने के लिए जब एक कुंजीपटल पहुँच सक्षम या अक्षम होना चहिए"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:4
 msgid "Disable keyboard accessibility after a timeout"
 msgstr "मध्यांतर के बाद कुंजीपटल पहुँच अक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:5
 msgid ""
 "Whether to disable keyboard accessibility after a timeout, useful for shared "
 "machines."
@@ -68,144 +68,144 @@ msgstr ""
 "क्या एक मध्यांतर के बाद कुंजीपटल एक्सेसिबिलिटी को निष्क्रिय करने के लिए, साझा "
 "मशीनों के लिए उपयोगी है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:6
 msgid "Duration of the disabling timeout"
 msgstr "मध्यांतर को अक्षम करने की अवधि"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:7
 msgid "Duration of the timeout before disabling the keyboard accessibility."
 msgstr "मध्यांतर के पहले कुंजीपट पहुँच अक्षम अवधि."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:8
 msgid "Enable 'Bounce Keys'"
 msgstr "'बाउंस कुंजी' सक्षम"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:9
 msgid "Whether the 'Bounce Keys' keyboard accessibility feature is turned on."
 msgstr "क्या 'बाउंस कुंजी' कुंजीपटल एक्सेसिबिलिटी सुविधा चालू है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:10
 msgid "Minimum interval in milliseconds"
 msgstr "न्यूनतम अंतराल मिलीसेकेंड में"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:11
 msgid "Ignore multiple presses of the same key within this many milliseconds."
 msgstr "यह कई मिली-सेकण्ड्स के भीतर एक ही कुंजी के कई प्रेस पर ध्यान न दें."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:12
 msgid "Beep when a key is rejected"
 msgstr "बीप करें जब एक कुंजी को अस्वीकार कर दिया है"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:13
 msgid "Whether to beep when a key is rejected."
 msgstr "क्या बीप करने के लिए जब एक कुंजी को अस्वीकार कर दिया है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:14
 msgid "Enable 'Mouse Keys'"
 msgstr " 'माउस कुंजी' सक्षम"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:15
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:15
 msgid "Whether the 'Mouse Keys' accessibility feature is turned on."
 msgstr "क्या 'माउस कुंजी' पहुँच सुविधा चालू है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:16
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:16
 msgid "Pixels per seconds"
 msgstr "पिक्सेल प्रति सेकेंड"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:17
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:17
 msgid "How many pixels per second to move at the maximum speed."
 msgstr "अधिकतम गति पर कितने पिक्सेल प्रति सेकेंड चलाना है"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:18
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:18
 msgid "How long to accelerate in milliseconds"
 msgstr "मिलीसेकेंड में कितना त्वरण करें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:19
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:19
 msgid "How many milliseconds it takes to go from 0 to maximum speed."
 msgstr "0 से अधिकतम गति तक पहुँचने में यह कितना मिलीसेकेंड लेता है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:20
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:20
 msgid "Initial delay in milliseconds"
 msgstr "आरंभिक विलम्ब मिलीसेकेंड में"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:21
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:21
 msgid ""
 "How many milliseconds to wait before mouse movement keys start to operate."
 msgstr ""
 "माउस गतिविधि कुंजी के कार्य करना प्रारंभ करने से पहले कितने मिलीसेकेंड तक "
 "प्रतीक्षा करें."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:22
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:22
 msgid "Enable 'Slow Keys'"
 msgstr " 'धीमे कुंजी' सक्षम"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:23
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:23
 msgid "Whether the 'Slow Keys' accessibility feature is turned on."
 msgstr "क्या 'धीमे कुंजी' पहुँच सुविधा चालू है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:24
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:24
 msgid ""
 "Do not accept a key as being pressed unless held for this many milliseconds."
 msgstr ""
 "एक कुंजी को दबाया जा रहा है जब तक यह कई मिलीसेकेंडों के लिए आयोजित के रूप में "
 "स्वीकार नहीं हैं"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:25
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:25
 msgid "Beep when a key is first pressed"
 msgstr "बीप करें जब एक कुंजी दबाया जाता है "
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:26
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:26
 msgid "Whether to beep when a key is first pressed."
 msgstr "क्या बीप करना चाहिए जब एक कुंजी दबाया जाता है"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:27
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:27
 msgid "Beep when a key is accepted"
 msgstr "बीप करें जब एक कुंजी स्वीकार कर लिया है"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:28
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:28
 msgid "Whether to beep when a key is accepted."
 msgstr "क्या बीप करना चाहिए जब एक कुंजी को स्वीकार कर लिया है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:29
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:29
 msgid "Enable sticky keys"
 msgstr "चिपचिपा कुंजी सक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:30
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:30
 msgid "Whether the sticky keys accessibility feature is turned on."
 msgstr "क्या स्टिकी कुंजी पहुँच सुविधा चालू है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:31
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:31
 msgid "Disable when two keys are pressed at the same time"
 msgstr "अक्षम करें जब एक ही समय में दो कुंजी दबाया जाता है"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:32
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:32
 msgid ""
 "Whether to disable sticky keys if two keys are pressed at the same time."
 msgstr ""
 "क्या स्टिकी कुंजी को निष्क्रिय करना चाहिए यदि दो कुंजियाँ एक ही समय में दबाया "
 "जाता है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:33
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:33
 msgid "Beep when a modifier is pressed."
 msgstr "जब परिवर्धक दबाया जाता है तो बीप करें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:34
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:34
 msgid "Whether to beep when a modifier key is pressed."
 msgstr "क्या बीप करना चाहिए जब परिवर्धक कुंजी दबाया जाता है"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:35
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:35
 msgid "Enable 'Toggle Keys'"
 msgstr "'टॉगल कुंजी 'सक्षम"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.keyboard.gschema.xml.in.in.h:36
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml.in.in.h:36
 msgid "Whether the 'Toggle Keys' accessibility feature is turned on."
 msgstr "क्या 'टॉगल कुंजी' पहुँच सुविधा चालू है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:1
 msgid "Mouse Tracking Mode"
 msgstr "माउस ट्रेकिंग मोड"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:2
 msgid ""
 "Determines the position of the magnified mouse image within the magnified "
 "view and how it reacts to system mouse movement. The values are - none: no "
@@ -226,11 +226,11 @@ msgstr ""
 "ही है, - धक्का जब बढ़ाया माउस ज़ूम क्षेत्र की एक सीमा है, प्रतिच्छेदित"
 "सामग्री देखने में स्क्रॉल कर रहे हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:3
 msgid "Screen position"
 msgstr "स्क्रीन की स्थिति"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:4
 msgid ""
 "The magnified view either fills the entire screen, or occupies the top-half, "
 "bottom-half, left-half, or right-half of the screen."
@@ -238,11 +238,11 @@ msgstr ""
 "बढ़ाया दृश्य या तो पूरे स्क्रीन भरता है, या शीर्ष आधा नीचे आधा बाएं आधा, या "
 "स्क्रीन के सही आधा रह रहे हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:5
 msgid "Magnification factor"
 msgstr "आवर्धन कारक"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:6
 msgid ""
 "The power of the magnification. A value of 1.0 means no magnification. A "
 "value of 2.0 doubles the size."
@@ -250,11 +250,11 @@ msgstr ""
 "बढ़ाई की शक्ति. 1.0 का एक मूल्य नहीं बढ़ाई मतलब है.2.0 का एक मूल्य आकार "
 "दोगुना हो जाता है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:7
 msgid "Enable lens mode"
 msgstr "लेंस मोड सक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:8
 msgid ""
 "Whether the magnified view should be centered over the location of the "
 "system mouse and move with it."
@@ -262,11 +262,11 @@ msgstr ""
 "क्या बढ़ाया दृश्य प्रणाली माउस के स्थान पर केंद्रित किया जाना चाहिए और इसके "
 "साथ चलते हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:9
 msgid "Scroll magnified contents beyond the edges of the desktop"
 msgstr "डेस्कटॉप के किनारों से परे स्क्रॉल सामग्री बढ़ाया."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:10
 msgid ""
 "For centered mouse tracking, when the system pointer is at or near the edge "
 "of the screen, the magnified contents continue to scroll such that the "
@@ -276,11 +276,11 @@ msgstr ""
 "पास है, बढ़ाया सामग्री के लिए ऐसी है कि स्क्रीन के किनारे पर बढ़ाया दृश्य में "
 "चलता स्क्रॉल जारी है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:11
 msgid "Show or hide crosshairs"
 msgstr "दिखाएँ या क्रॉसहेयर को छिपायें "
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:12
 msgid ""
 "Enables/disables display of crosshairs centered on the magnified mouse "
 "sprite."
@@ -288,31 +288,31 @@ msgstr ""
 "आवर्धित माउस प्रेत पर केंद्रित क्रॉसहेयर के प्रदर्शन अक्षम करें/ सक्षम करता "
 "है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:13
 msgid "Thickness of the crosshairs in pixels"
 msgstr "पिक्सल में क्रॉसहेयर की मोटाई"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:14
 msgid ""
 "Width in pixels of the vertical and horizontal lines that make up the "
 "crosshairs."
 msgstr "क्षैतिज और ऊर्ध्वाधर लाइनों कि क्रॉसहेयर बनाने के पिक्सल में चौड़ाई."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:15
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:15
 msgid "Color of the crosshairs"
 msgstr "क्रॉसहेयर का रंग"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:16
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:16
 msgid ""
 "The color of the the vertical and horizontal lines that make up the "
 "crosshairs."
 msgstr "क्षैतिज और ऊर्ध्वाधर लाइनों कि क्रॉसहेयर बनाने के रंग."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:17
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:17
 msgid "Opacity of the crosshairs"
 msgstr "क्रॉसहेयर की अस्पष्टता"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:18
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:18
 msgid ""
 "Determines the transparency of the crosshairs, from fully opaque to fully "
 "transparent."
@@ -320,11 +320,11 @@ msgstr ""
 "क्रॉसहेयर की पारदर्शिता निर्धारित करता है, पूरी तरह से पूरी तरह से अपारदर्शी "
 "से पारदर्शी है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:19
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:19
 msgid "Length of the crosshairs in pixels"
 msgstr "पिक्सल में क्रॉसहेयर की लंबाई"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:20
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:20
 msgid ""
 "Determines the length in pixels of the vertical and horizontal lines that "
 "make up the crosshairs."
@@ -332,11 +332,11 @@ msgstr ""
 "क्षैतिज और ऊर्ध्वाधर लाइनों कि क्रॉसहेयर बनाने के पिक्सल में लंबाई निर्धारित "
 "करता है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:21
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:21
 msgid "Clip the crosshairs at the center"
 msgstr "केंद्र में क्रासहेयर्स क्लिप"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:22
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:22
 msgid ""
 "Determines whether the crosshairs intersect the magnified mouse sprite, or "
 "are clipped such that the ends of the horizontal and vertical lines surround "
@@ -346,11 +346,11 @@ msgstr ""
 "कर रहे हैं जैसे कि क्षैतिज और ऊर्ध्वाधर लाइनों के सिरों माउस छवि के चारों ओर "
 "काटा."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:23
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:23
 msgid "Inverse lightness"
 msgstr "व्युत्क्रम चमक"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:24
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:24
 msgid ""
 "Determines whether the lightness values are inverted: darker colors become "
 "lighter and vice versa, and white and black are interchanged."
@@ -358,11 +358,11 @@ msgstr ""
 "निर्धारित करता है कि क्या चमक मूल्यों उल्टे कर रहे हैं: काले रंग हल्का और "
 "इसके विपरीत हो, और सफेद और काले आपस में बदल गयें हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:25
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:25
 msgid "Color Saturation"
 msgstr "रंग संतृप्ति"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:26
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:26
 msgid ""
 "Represents a change to the color saturation, from 0.0 (grayscale) to 1.0 "
 "(full color)."
@@ -370,11 +370,11 @@ msgstr ""
 "रंग संतृप्ति के लिए एक परिवर्तन का प्रतिनिधित्व करता है, 0.0 (स्केल) से 1.0 "
 "(पूर्ण रंग)."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:27
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:27
 msgid "Change brightness of red"
 msgstr "लाल रंग की चमक बदलें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:28
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:28
 msgid ""
 "Represents a change to the default brightness of the red component. Zero "
 "indicates no change, values less than zero indicate a decrease, and values "
@@ -384,11 +384,11 @@ msgstr ""
 "परिवर्तन नहीं दर्शाता है,  मानों शून्य से कम एक कमी है, और शून्य से अधिक "
 "मानों संकेत एक वृद्धि से संकेत मिलता है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:29
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:29
 msgid "Change brightness of green"
 msgstr "हरे रंग की चमक बदलें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:30
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:30
 msgid ""
 "Represents a change to the default brightness for the green component. Zero "
 "indicates no change, values less than zero indicate a decrease, and values "
@@ -398,11 +398,11 @@ msgstr ""
 "कोई परिवर्तन नहीं दर्शाता है, मानों शून्य से कम एक कमी है, और शून्य से अधिक "
 "मानों संकेत एक वृद्धि से संकेत मिलता है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:31
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:31
 msgid "Change brightness of blue"
 msgstr "नीले रंग की चमक बदलें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:32
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:32
 msgid ""
 "Represents a change to the default brightness for the blue component. Zero "
 "indicates no change, values less than zero indicate a decrease, and values "
@@ -412,11 +412,11 @@ msgstr ""
 "कोई परिवर्तन नहीं दर्शाता है, मानों शून्य से कम एक कमी है, और शून्य से अधिक "
 "मानों संकेत एक वृद्धि से संकेत मिलता है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:33
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:33
 msgid "Change contrast of red"
 msgstr "लाल रंग के विपरीत बदलें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:34
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:34
 msgid ""
 "Represents a change to the default contrast of the red component. Zero "
 "indicates no change in contrast, values less than zero indicate a decrease, "
@@ -426,11 +426,11 @@ msgstr ""
 "है.शून्य इसके विपरीत में कोई परिवर्तन नहीं दर्शाता है, मानों शून्य से कम एक "
 "कमी है, और शून्य से अधिक मानों संकेत एक वृद्धि से संकेत मिलता है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:35
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:35
 msgid "Change contrast of green"
 msgstr "हरे रंग के विपरीत बदलें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:36
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:36
 msgid ""
 "Represents a change to the default contrast of the green component. Zero "
 "indicates no change in contrast, values less than zero indicate a decrease, "
@@ -440,11 +440,11 @@ msgstr ""
 "है.शून्य इसके विपरीत में कोई परिवर्तन नहीं दर्शाता है, मानों शून्य से कम एक "
 "कमी है, और शून्य से अधिक मानों संकेत एक वृद्धि से संकेत मिलता है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:37
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:37
 msgid "Change contrast of blue"
 msgstr "नीले रंग के विपरीत बदलें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.magnifier.gschema.xml.in.in.h:38
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.magnifier.gschema.xml.in.in.h:38
 msgid ""
 "Represents a change to the default contrast of the blue component. Zero "
 "indicates no change in contrast, values less than zero indicate a decrease, "
@@ -454,103 +454,103 @@ msgstr ""
 "है.शून्य इसके विपरीत में कोई परिवर्तन नहीं दर्शाता है, मानों शून्य से कम एक "
 "कमी है, और शून्य से अधिक मानों संकेत एक वृद्धि से संकेत मिलता है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:1
 msgid "Dwell click time"
 msgstr "ड्वेल क्लिक समय"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:2
 msgid "Time in seconds before a click is triggered."
 msgstr "सेकंड में समय से पहले एक क्लिक शुरू हो रहा है."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:3
 msgid "Movement threshold"
 msgstr "गति दहलीज"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:4
 msgid "Distance in pixels before movement will be recognized."
 msgstr "घुमाव से पहले पिक्सल में दूरी मान्यता प्राप्त हो जाएगा."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:5
 msgid "Gesture single click"
 msgstr "गेस्चर एकल क्लिक"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:6
 msgid "Direction to perform a single click ('left', 'right', 'up', 'down)."
 msgstr "एक एकल क्लिक करें ('छोड़ दिया', 'सही', 'अप', 'नीचे) करने के लिए दिशा."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:7
 msgid "Gesture double click"
 msgstr "गेस्चर दोहरा क्लिक"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:8
 msgid "Direction to perform a double click ('left', 'right', 'up', 'down)."
 msgstr "एक डबल क्लिक करें ('छोड़ दिया', 'सही', 'अप', 'नीचे) करने के लिए दिशा."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:9
 msgid "Gesture drag click"
 msgstr "गेस्चर ड्रैग क्लिक"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:10
 msgid "Direction to perform dragging ('left', 'right', 'up', 'down)."
 msgstr " खींचने ('छोड़ दिया', 'सही', 'अप', 'नीचे' ) करने के लिए दिशा."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:11
 msgid "Gesture secondary click"
 msgstr "गेस्चर द्वितीयक क्लिक"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:12
 msgid "Direction to perform a secondary click ('left', 'right', 'up', 'down)."
 msgstr "एक द्वितीयक क्लिक( 'छोड़ दिया', 'सही', 'अप', 'नीचे') करने के लिए दिशा."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:13
 msgid "Dwell click mode"
 msgstr "ड्वेल क्लिक मोड"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:14
 msgid ""
 "The active dwell click mode. Possible values are 'window' and 'gesture'."
 msgstr ""
 "सक्रिय मोड क्लिक केन्द्रित है. संभावित मान 'विंडो' और 'इशारा' कर रहे हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:15
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:15
 msgid "Show click type window"
 msgstr "क्लिक प्रकार विंडो दिखाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:16
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:16
 msgid "Show click type window."
 msgstr "क्लिक प्रकार विंडो दिखाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:17
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:17
 msgid "Enable dwell clicks"
 msgstr "क्लिकों ध्यान केन्द्रित सक्षम"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:18
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:18
 msgid "Enable dwell clicks."
 msgstr "क्लिकों ध्यान केन्द्रित सक्षम."
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:19
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:19
 msgid "Secondary click enabled"
 msgstr "माध्यमिक क्लिक सक्षम है"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:20
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:20
 msgid "Enable simulated secondary clicks"
 msgstr "नकली माध्यमिक क्लिक सक्रिय करें"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:21
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:21
 msgid "Secondary click time"
 msgstr "द्वितीयक क्लिक समय"
 
-#: ../schemas/io.github.scarecrow.desktop.a11y.mouse.gschema.xml.in.in.h:22
+#: ../schemas/io.github.scarecrow-de.desktop.a11y.mouse.gschema.xml.in.in.h:22
 msgid "Time in seconds before a simulated secondary click is triggered."
 msgstr "सेकंड में एक नकली द्वितीयक क्लिक के पहले समय शुरू हो रहा है."
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:1
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:23
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:23
 msgid "Picture Options"
 msgstr "छवि विकल्प"
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:2
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:24
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:24
 msgid ""
 "Determines how the image set by wallpaper_filename is rendered. Possible "
 "values are \"none\", \"wallpaper\", \"centered\", \"scaled\", \"stretched\", "
@@ -560,12 +560,12 @@ msgstr ""
 "है.संभावित मान \"कोई नहीं\", \"वॉलपेपर\", \"केंद्रित\", \"स्केल\", \"फैला\", "
 "\"ज़ूम\", \"फैला कर रहे हैं\"."
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:3
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:25
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:25
 msgid "Picture URI"
 msgstr "चित्र यूआरआइ"
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:4
 msgid ""
 "URI to use for the background image. Note that the backend only supports "
 "local (file://) URIs."
@@ -573,65 +573,65 @@ msgstr ""
 "यूआरआइ पृष्ठभूमि छवि के लिए उपयोग.ध्यान दें कि बैकेंड केवल स्थानीय (फ़ाइल :/ "
 "/) यूआरआई का समर्थन करता है."
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:5
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:27
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:27
 msgid "Picture Opacity"
 msgstr "छवि अपारदर्शिता"
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:6
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:28
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:28
 msgid "Opacity with which to draw the background picture."
 msgstr "अपारदर्शिता जिससे पृष्ठभूमि छवि आरेखित करनी है."
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:7
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:29
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:29
 msgid "Primary Color"
 msgstr "प्राथमिक रंग"
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:8
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:30
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:30
 msgid "Left or Top color when drawing gradients, or the solid color."
 msgstr "बायाँ या शीर्ष रंग जब अनुपात आरेखित किए जाएँ, या ठोस रंग."
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:9
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:31
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:31
 msgid "Secondary Color"
 msgstr "द्वैतीयक रंग"
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:10
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:32
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:32
 msgid "Right or Bottom color when drawing gradients, not used for solid color."
 msgstr ""
 "दायाँ या तल रंग जब अनुपात आरेखित किए जाएँ, ठोस रंगों में प्रयुक्त नहीं."
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:11
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:33
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:33
 msgid "Color Shading Type"
 msgstr "रंग आभा प्रकार"
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:12
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:34
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:34
 msgid ""
 "How to shade the background color. Possible values are \"horizontal\", "
 "\"vertical\", and \"solid\"."
 msgstr ""
 "पृष्ठभूमि रंग कैसे छायांकित.संभावित मान \"क्षैतिज\", \"खड़ी\", और \"ठोस\" हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:13
 msgid "Have file manager handle the desktop"
 msgstr "क्या फ़ाइल प्रबंधक डेस्कटॉप संभाल सकते हैं"
 
-#: ../schemas/io.github.scarecrow.desktop.background.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.desktop.background.gschema.xml.in.in.h:14
 msgid "If set to true, then file manager will draw the icons on the desktop."
 msgstr ""
 "अगर सही पर सेट किया जाता है, तो फ़ाइल प्रबंधक डेस्कटॉप पर चिह्नों को आकर्षित "
 "करेगा."
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:1
 msgid "Default calendar"
 msgstr "तयशुदा पंचांग"
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:2
 msgid ""
 "Default calendar application DEPRECATED: This key is deprecated and ignored. "
 "The preferred calendar application is the application handling the text/"
@@ -640,11 +640,11 @@ msgstr ""
 "डिफ़ॉल्ट कैलेंडर अनुप्रयोग पदावनत: यह कुंजी पदावनत नजरअंदाज कर दिया है."
 "पसंदीदा कैलेंडर अनुप्रयोग पाठ / कैलेंडर माइम प्रकार से निपटने के आवेदन है."
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:3
 msgid "Calendar needs terminal"
 msgstr "पंचांग को टर्मिनल की जरूरत है"
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:4
 msgid ""
 "Whether the default calendar application needs a terminal to run. "
 "DEPRECATED: This key is deprecated and ignored. The preferred calendar "
@@ -656,27 +656,27 @@ msgstr ""
 "प्रकार से निपटने आवेदन है, चाहे वह एक टर्मिनल की जरूरत है अपने डेस्कटॉप फ़ाइल "
 "से लिया जाता है."
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:5
 msgid "Default tasks"
 msgstr "तयशुदा कार्य"
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:6
 msgid "Default tasks application."
 msgstr "तयशुदा कार्य अनुप्रयोग."
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:7
 msgid "Tasks needs terminal"
 msgstr "कार्य के लिए टर्मिनल की आवश्यकता है"
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:8
 msgid "Whether the default tasks application needs a terminal to run."
 msgstr "क्या तयशुदा कार्य अनुप्रयोग चलाने के लिए टर्मिनल की आवश्यकता है."
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:9
 msgid "Terminal application"
 msgstr "टर्मिनल अनुप्रयोग"
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:10
 #| msgid "Terminal program to use when starting applications that require one."
 msgid ""
 "Terminal program to use when starting applications that require one. "
@@ -687,11 +687,11 @@ msgstr ""
 "है शुरू. विरोधित: यह कुंजी पदावनत नजरअंदाज कर दिया है.डिफ़ॉल्ट टर्मिनल GIO "
 "में संभाला है."
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:11
 msgid "Exec Arguments"
 msgstr "ईएक्सईसी आर्गुमेंट्स"
 
-#: ../schemas/io.github.scarecrow.desktop.default-applications.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.default-applications.gschema.xml.in.in.h:12
 msgid ""
 "Argument used to execute programs in the terminal defined by the 'exec' key. "
 "DEPRECATED: This key is deprecated and ignored. The default terminal and how "
@@ -702,11 +702,11 @@ msgstr ""
 "और कैसे"
 "यह करने के लिए आह्वान GIO में संभाला है."
 
-#: ../schemas/io.github.scarecrow.desktop.input-sources.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.input-sources.gschema.xml.in.in.h:1
 msgid "Current input source"
 msgstr "वर्तमान इनपुट स्रोत"
 
-#: ../schemas/io.github.scarecrow.desktop.input-sources.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.input-sources.gschema.xml.in.in.h:2
 msgid ""
 "The zero-based index into the input sources list specifying the current one "
 "in effect. The value is automatically capped to remain in the range [0, "
@@ -716,11 +716,11 @@ msgstr ""
 "सूचकांक.मूल्य स्वचालित रूप से करने के लिए लंबे समय के रूप में सीमा [0, "
 "sources_length) में रहने के रूप में छाया हुआ है स्रोतों की सूची खाली नहीं है."
 
-#: ../schemas/io.github.scarecrow.desktop.input-sources.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.input-sources.gschema.xml.in.in.h:3
 msgid "List of input sources"
 msgstr "इनपुट स्रोतों की सूची"
 
-#: ../schemas/io.github.scarecrow.desktop.input-sources.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.input-sources.gschema.xml.in.in.h:4
 msgid ""
 "List of input source identifiers available. Each source is specified as a "
 "tuple of 2 strings. The first string is the type and can be one of 'xkb' or "
@@ -737,11 +737,11 @@ msgstr ""
 "लिए 2 स्ट्रिंग IBus इंजन का नाम है.एक खाली सूची का मतलब है कि एक्स सर्वर चालू "
 "एक्सकेबी लेआउट और संस्करण और छुआ तक नहीं IBus इस्तेमाल नहीं किया जाएगा."
 
-#: ../schemas/io.github.scarecrow.desktop.input-sources.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.input-sources.gschema.xml.in.in.h:5
 msgid "List of XKB options"
 msgstr "एक्सकेबी विकल्प की सूची"
 
-#: ../schemas/io.github.scarecrow.desktop.input-sources.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.input-sources.gschema.xml.in.in.h:6
 msgid ""
 "List of XKB options. Each option is an XKB option string as defined by "
 "xkeyboard-config's rules files."
@@ -749,39 +749,39 @@ msgstr ""
 "एक्सकेबी विकल्प की सूची.प्रत्येक विकल्प एक एक्सकेबी विकल्प स्ट्रिंग "
 "xkeyboard-config नियमों फ़ाइलों द्वारा परिभाषित के रूप में है."
 
-#: ../schemas/io.github.scarecrow.desktop.input-sources.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.input-sources.gschema.xml.in.in.h:7
 msgid "Show all installed input sources"
 msgstr "सभी स्थापित इनपुट सूत्रों दिखाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.input-sources.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.input-sources.gschema.xml.in.in.h:8
 msgid ""
 "Makes all installed input sources available for choosing in System Settings."
 msgstr ""
 "प्रणाली सेटिंग्स में चुनने के लिए सभी स्थापित इनपुट स्रोत उपलब्ध बनाता है."
 
-#: ../schemas/io.github.scarecrow.desktop.input-sources.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.input-sources.gschema.xml.in.in.h:9
 msgid "Use different input sources for each window"
 msgstr "एक खिड़की के लिए अलग इनपुट स्रोतों का उपयोग करें"
 
-#: ../schemas/io.github.scarecrow.desktop.input-sources.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.input-sources.gschema.xml.in.in.h:10
 msgid ""
 "When enabled, input sources get attached to the currently focused window "
 "when activated."
 msgstr "जब सक्षम, इनपुट सूत्रों वर्तमान फ़ोकस विंडो से जुड़े जब सक्रिय."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:1
 msgid "Enable Toolkit Accessibility"
 msgstr "टूलकिट एक्सेसिबिलिटी सक्षम"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:2
 msgid "Whether toolkits should load accessibility related modules."
 msgstr "क्या उपकरणकिटें पहुँच संबंधित मॉड्यूल लोड करना चाहिए."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:3
 msgid "Enable Animations"
 msgstr "एनीमेशन सक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:4
 msgid ""
 "Whether animations should be displayed. Note: This is a global key, it "
 "changes the behaviour of the window manager, the panel etc."
@@ -790,19 +790,19 @@ msgstr ""
 "प्रबंधक, प़लक "
 "इत्यादि के व्यवहार को परिवर्तित करता है."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:5
 msgid "Menus Have Tearoff"
 msgstr "मेनू अलग करने योग्य हों"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:6
 msgid "Whether menus should have a tearoff."
 msgstr "क्या मेन्यू अलग करने योग्य होना चाहिए."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:7
 msgid "Can Change Accels"
 msgstr "त्वरक को परिवर्तित कर सकता है"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:8
 msgid ""
 "Whether the user can dynamically type a new accelerator when positioned over "
 "an active menuitem."
@@ -811,11 +811,11 @@ msgstr ""
 "रखा जाता "
 "होता है."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:9
 msgid "Toolbar Style"
 msgstr "उपकरण-पट्टी शैली"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:10
 msgid ""
 "Toolbar Style. Valid values are \"both\", \"both-horiz\", \"icons\", and "
 "\"text\"."
@@ -823,171 +823,171 @@ msgstr ""
 "औज़ारपट्टी शैली. वैध मूल्य हैं \"दोनों\", \"दोनों_आड़े\", \"प्रतीक\", तथा "
 "\"पाठ\"."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:11
 msgid "Menus Have Icons"
 msgstr "मेनू में चिह्न हों"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:12
 msgid "Whether menus may display an icon next to a menu entry."
 msgstr "क्या मेन्यू प्रविष्टि के बाजू से एक प्रतीक प्रदर्शित किया जाना चाहिए."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:13
 msgid "Buttons Have Icons"
 msgstr "बटन प्रतीक रखने चाहिए"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:14
 msgid "Whether buttons may display an icon in addition to the button text."
 msgstr "क्या बटन को बटन पाठ के अलावे एक प्रतीक दिखाना चाहिए."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:15
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:15
 msgid "Menubar Detachable"
 msgstr "पृथक करने योग्य उपकरण-पट्टी"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:16
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:16
 msgid "Whether the user can detach menubars and move them around."
 msgstr "क्या उपयोक्ता मेन्यूपट्टी अलग कर उन्हें आस-पास खिसका सकता है."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:17
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:17
 msgid "Toolbar Detachable"
 msgstr "पृथक करने योग्य उपकरण-पट्टी"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:18
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:18
 msgid "Whether the user can detach toolbars and move them around."
 msgstr "क्या उपयोक्ता औजारपट्टी अलग कर उन्हें आस-पास खिसका सकता है."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:19
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:19
 msgid "Toolbar Icon Size"
 msgstr "उपकरण-पट्टी चिह्न आकार"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:20
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:20
 msgid "Size of icons in toolbars, either \"small\" or \"large\"."
 msgstr "पट्टी चिह्न का आकार, या तो \"छोटे\" या \"बड़े\"."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:21
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:21
 msgid "Cursor Blink"
 msgstr "संकेतक टिमटिमाना"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:22
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:22
 msgid "Whether the cursor should blink."
 msgstr "क्या कर्सर टिमटिमाना चाहिए."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:23
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:23
 msgid "Cursor Blink Time"
 msgstr "संकेतक टिमटिमाना समय"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:24
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:24
 msgid "Length of the cursor blink cycle, in milliseconds."
 msgstr "कर्सर ब्लिंक चक्र, मिलीसेकेंड में"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:25
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:25
 msgid "Cursor Blink Timeout"
 msgstr "कर्सर ब्लिंक समयावधि"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:26
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:26
 msgid "Time after which the cursor stops blinking, in seconds."
 msgstr "समय जिसके बाद कर्सर ब्लिंक करना रूक जाता है, सेकेंड में"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:27
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:27
 msgid "Icon Theme"
 msgstr "चिह्न प्रसंग"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:28
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:28
 msgid "Icon theme to use for the panel, nautilus etc."
 msgstr "फ़लक, नॉटिलस इत्यादि में उपयोग में लेने हेतु चिह्न प्रसंग"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:29
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:29
 msgid "Gtk+ Theme"
 msgstr "जीटीके+ प्रसंग"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:30
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:30
 msgid "Basename of the default theme used by gtk+."
 msgstr "जीटीके+ द्वारा उपयोग किए तयशुदा प्रसंग का बेसनाम."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:31
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:31
 msgid "Gtk+ Keybinding Theme"
 msgstr "जीटीके + कीबाइंडिंग थीम"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:32
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:32
 msgid "Basename of the default keybinding theme used by gtk+."
 msgstr "डिफ़ॉल्ट कीबाइंडिंग विषय जीटीके + द्वारा प्रयुक्त की बेसनाम."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:33
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:33
 msgid "Default font"
 msgstr "तयशुदा फ़ॉन्ट"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:34
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:34
 msgid "Name of the default font used by gtk+."
 msgstr "जीटीके+ द्वारा उपयोग किए जाने वाले तयशुदा फ़ॉन्ट का नाम"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:35
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:35
 msgid "Text scaling factor"
 msgstr "पाठ स्केलिंग कारक"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:36
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:36
 msgid ""
 "Factor used to enlarge or reduce text display, without changing font size."
 msgstr ""
 "फैक्टर फ़ॉन्ट आकार बदलने के बिना विस्तार करने के लिए या पाठ प्रदर्शन को कम "
 "करने के लिए इस्तेमाल किया."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:37
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:37
 msgid "GTK IM Preedit Style"
 msgstr "जीटीके आईएम प्री-एडिट शैली"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:38
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:38
 msgid "Name of the GTK+ input method Preedit Style used by gtk+."
 msgstr ""
 "जीटीके+ इनपुट विधि प्री-एडिट शैली का नाम जो जीटीके+ द्वारा प्रयुक्त होता है."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:39
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:39
 msgid "GTK IM Status Style"
 msgstr "जीटीके आईएम स्थिति शैली"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:40
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:40
 msgid "Name of the GTK+ input method Status Style used by gtk+."
 msgstr ""
 "जीटीके+ इनपुट विधि स्थिति शैली का नाम जो जीटीके+ द्वारा प्रयुक्त होता है."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:41
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:41
 msgid "GTK IM Module"
 msgstr "GTK IM मॉड्यूल"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:42
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:42
 msgid "Name of the input method module used by GTK+."
 msgstr "इनपुट विधि मॉड्यूल का नाम जो जीटीके+ द्वारा प्रयुक्त होती है."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:43
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:43
 msgid "Document font"
 msgstr "दस्तावेज फ़ॉन्ट"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:44
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:44
 msgid "Name of the default font used for reading documents."
 msgstr "दस्तावेज़ पढने के लिये प्रयुक्त तयशुदा फ़ॉन्ट का नाम."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:45
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:45
 msgid "Monospace font"
 msgstr "मोनोस्पेस फ़ॉन्ट"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:46
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:46
 msgid ""
 "Name of a monospaced (fixed-width) font for use in locations like terminals."
 msgstr ""
 "मोनोस्पेस्ड (स्थिर-चौड़ाई) फ़ॉन्ट नाम जो टर्मिनल जैसे स्थानों पर प्रयुक्त "
 "होते हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:47
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:47
 msgid "Menubar accelerator"
 msgstr "मेनूबार त्वरक"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:48
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:48
 msgid "Keyboard shortcut to open the menu bars."
 msgstr "मेनूबार खोलने के लिये कुंजीपटल शॉर्टकट"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:49
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:49
 msgid "Show the 'Input Methods' menu"
 msgstr "'इनपुट विधि' मेनू दिखायें"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:50
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:50
 msgid ""
 "Whether the context menus of entries and text views should offer to change "
 "the input method."
@@ -996,11 +996,11 @@ msgstr ""
 "प्रस्ताव दिया जाना "
 "चाहिए."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:51
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:51
 msgid "Show the 'Unicode Control Character' menu"
 msgstr "'यूनीकोड नियंत्रण संप्रतीक' मेनू दिखायें"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:52
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:52
 msgid ""
 "Whether the context menus of entries and text views should offer to insert "
 "control characters."
@@ -1009,30 +1009,30 @@ msgstr ""
 "प्रस्ताव दिया जाना "
 "चाहिए."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:53
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:53
 msgid "Cursor theme"
 msgstr "संकेतक प्रसंग"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:54
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:54
 msgid ""
 "Cursor theme name. Used only by Xservers that support the Xcursor extension."
 msgstr ""
 "कर्सर थीम का नाम. Xcursor विस्तार का समर्थन करने वाले Xservers द्वारा सिर्फ "
 "प्रयुक्त."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:55
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:55
 msgid "Cursor size"
 msgstr "कर्सर आकार"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:56
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:56
 msgid "Size of the cursor used as cursor theme."
 msgstr "कर्सर थीम के रूप में इस्तेमाल किया कर्सर का आकार."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:57
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:57
 msgid "Timeout before click repeat"
 msgstr "क्लिक दोहराने से पहले समयबाह्य"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:58
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:58
 msgid ""
 "Timeout in milliseconds before a click starts repeating (on spinner buttons "
 "for example)."
@@ -1040,22 +1040,22 @@ msgstr ""
 "मिलीसेकेंड में टाइमआउट एक क्लिक के शुरू होने से पहले दोहरा (उदाहरण के लिए "
 "स्पिनर बटन पर)."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:59
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:59
 msgid "Timeout between click repeats"
 msgstr "क्लिक दोहराता के बीच मध्यांतर"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:60
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:60
 msgid ""
 "Timeout in milliseconds between repeated clicks when a button is left "
 "pressed."
 msgstr ""
 "कई बार क्लिक जब एक बटन दबाया छोड़ दिया है के बीच मिलीसेकेंड में टाइमआउट."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:61
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:61
 msgid "Palette used in the color selector"
 msgstr "रंग चयनकर्ता में प्रयुक्त पैलेट"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:62
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:62
 msgid ""
 "Palette used in the color selector as defined by the 'gtk-color-palette' "
 "setting"
@@ -1063,11 +1063,11 @@ msgstr ""
 "रंग चयनकर्ता में प्रयुक्त पैलेट 'जीटीके रंग पैलेट' सेटिंग द्वारा परिभाषित के "
 "रूप में"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:63
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:63
 msgid "List of symbolic names and color equivalents"
 msgstr "प्रतीकात्मक नाम और रंग समकक्ष की सूची"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:64
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:64
 msgid ""
 "A '\\n' separated list of \"name:color\" as defined by the 'gtk-color-"
 "scheme' setting"
@@ -1075,31 +1075,31 @@ msgstr ""
 "A '\\n' separated list of \"name:color\" as defined by the 'gtk-color-"
 "scheme' setting"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:65
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:65
 msgid "Whether the clock displays in 24h or 12h format"
 msgstr "क्या घड़ी 24 घंटों या 12h प्रारूप में प्रदर्शित"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:66
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:66
 msgid "Whether the clock shows seconds"
 msgstr "क्या घड़ी सेकंड से पता चलता है"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:67
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:67
 msgid "If true, display seconds in the clock."
 msgstr "अगर सही है, घड़ी में सेकंड प्रदर्शित."
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:68
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:68
 msgid "Show date in clock"
 msgstr "घड़ी में दिनांक दिखाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:69
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:69
 msgid "If true, display date in the clock, in addition to time."
 msgstr "अगर सही है तो घड़ी में समय के साथ ही दिनांक भी दर्शाएगा"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:70
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:70
 msgid "Only show mnemonics on when the Alt key is pressed"
 msgstr "केवल जब Alt कुंजी दबाया जाता है स्मरणोकारी दिखता हैं"
 
-#: ../schemas/io.github.scarecrow.desktop.interface.gschema.xml.in.in.h:71
+#: ../schemas/io.github.scarecrow-de.desktop.interface.gschema.xml.in.in.h:71
 msgid ""
 "Whether mnemonics should be automatically shown and hidden when the user "
 "presses the Alt key."
@@ -1107,11 +1107,11 @@ msgstr ""
 "क्या स्मरणोकारी स्वचालित रूप से और दिखाया चाहिए छिपा जब उपयोगकर्ता प्रेस Alt "
 "कुंजी."
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:1
 msgid "Disable command line"
 msgstr "कमांड पंक्ति अक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:2
 msgid ""
 "Prevent the user from accessing the terminal or specifying a command line to "
 "be executed. For example, this would disable access to the panel's \"Run "
@@ -1121,11 +1121,11 @@ msgstr ""
 "लिए, यह फ़लक के "
 "\"अनुप्रयोग चलाएँ\" संवाद पर पहुँच को अक्षम कर देता है."
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:3
 msgid "Disable saving files to disk"
 msgstr "डिस्क पर फ़ाइलें सहेजना अक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:4
 msgid ""
 "Prevent the user from saving files to disk. For example, this would disable "
 "access to all applications' \"Save as\" dialogs."
@@ -1134,11 +1134,11 @@ msgstr ""
 "अनुप्रयोगों के \"इस रूप "
 "में सहेजें\" संवादों पर पहुँच को अक्षम कर देता है."
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:5
 msgid "Disable printing"
 msgstr "मुद्रण अक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:6
 msgid ""
 "Prevent the user from printing. For example, this would disable access to "
 "all applications' \"Print\" dialogs."
@@ -1147,11 +1147,11 @@ msgstr ""
 "\"मुद्रण\" संवादों पर "
 "पहुँच को अक्षम कर देता है."
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:7
 msgid "Disable print setup"
 msgstr "मुद्रण सेटअप अक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:8
 msgid ""
 "Prevent the user from modifying print settings. For example, this would "
 "disable access to all applications' \"Print Setup\" dialogs."
@@ -1160,46 +1160,46 @@ msgstr ""
 "सभी अनुप्रयोगों "
 "के \"मुद्रण सेटअप\" संवादों पर पहुँच को अक्षम कर देता है."
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:9
 msgid "Disable user switching"
 msgstr "उपयोक्ता परिवर्तन निष्क्रिय करें"
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:10
 msgid ""
 "Prevent the user from switching to another account while his session is "
 "active."
 msgstr "उपयोक्ता को किसी दूसरे खाते में जाना रोकें जब यह सत्र सक्रिय है."
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:11
 msgid "Disable lock screen"
 msgstr "लॉक स्क्रीन निष्क्रिय करें"
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:12
 msgid "Prevent the user to lock his screen."
 msgstr "इस उपयोक्ता को अपना स्क्रीन लॉक करने से रोकें."
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:13
 msgid "Disable URL and MIME type handlers"
 msgstr "यूआरएल और MIME प्रकार नियंत्रक निष्क्रिय करें"
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:14
 msgid "Prevent running any URL or MIME type handler applications."
 msgstr "किसी URL अथवा MIME प्रकार नियंत्रक अनुप्रयोग का चलाया जाना रोकें."
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:15
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:15
 msgid "Disable log out"
 msgstr "निष्क्रिय करें लॉग आउट"
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:16
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:16
 msgid "Prevent the user from logging out."
 msgstr "बाहर प्रवेश करने से उपयोगकर्ता रोकें."
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:17
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:17
 #| msgid "Disable user switching"
 msgid "Disable user administration"
 msgstr "उपयोगकर्ता प्रशासन निष्क्रिय करें"
 
-#: ../schemas/io.github.scarecrow.desktop.lockdown.gschema.xml.in.in.h:18
+#: ../schemas/io.github.scarecrow-de.desktop.lockdown.gschema.xml.in.in.h:18
 msgid ""
 "Stop the user from modifying user accounts. By default, we allow adding and "
 "removing users, as well as changing other users settings."
@@ -1208,11 +1208,11 @@ msgstr ""
 "उपयोगकर्ताओं को हटाने, के रूप में के रूप में अच्छी तरह से अन्य उपयोगकर्ताओं "
 "सेटिंग्स को बदलने करने की अनुमति देते हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:1
 msgid "Whether to automatically mount media"
 msgstr "क्या मीडिया स्वतः आरोहित करने हैं"
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:2
 msgid ""
 "If set to true, then Nautilus will automatically mount media such as user-"
 "visible hard disks and removable media on start-up and media insertion."
@@ -1221,11 +1221,11 @@ msgstr ""
 "हार्ड "
 "डिस्क और विस्थापनीय मीडिया आरंभ व मीडिया घुसाने के दौरान."
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:3
 msgid "Whether to automatically open a folder for automounted media"
 msgstr "क्या स्वारोहित मीडिया के लिए किसी फोल्डर को स्वतः खोलना है"
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:4
 msgid ""
 "If set to true, then Nautilus will automatically open a folder when media is "
 "automounted. This only applies to media where no known x-content/* type was "
@@ -1240,11 +1240,11 @@ msgstr ""
 "क्रिया को बदले "
 "में लिया जाएगा "
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:5
 msgid "Never prompt or autorun/autostart programs when media are inserted"
 msgstr "कभी प्रांप्ट या स्वतः चालू/स्वतः आरंभ मत करें जब मीडिया घुसाई जाती है"
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:6
 msgid ""
 "If set to true, then Nautilus will never prompt nor autorun/autostart "
 "programs when a medium is inserted."
@@ -1253,12 +1253,12 @@ msgstr ""
 "माध्यम के "
 "घुसाए जाने पर स्वतः चालू/स्वतः आरंभ नहीं करेगा."
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:7
 msgid ""
 "List of x-content/* types where the preferred application will be launched"
 msgstr "x-content/* प्रकार की सूची जहाँ वरीय अनुप्रयोग लॉन्च किए जाएंगे"
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:8
 msgid ""
 "List of x-content/* types for which the user have chosen to start an "
 "application in the preference capplet. The preferred application for the "
@@ -1270,11 +1270,11 @@ msgstr ""
 "मेल खाते "
 "मीडिया के घुसाने से."
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:9
 msgid "List of x-content/* types set to \"Do Nothing\""
 msgstr "x-content/* प्रकार की सूची \"Do Nothing\" में सेट की गई है"
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:10
 msgid ""
 "List of x-content/* types for which the user have chosen \"Do Nothing\" in "
 "the preference capplet. No prompt will be shown nor will any matching "
@@ -1286,11 +1286,11 @@ msgstr ""
 "किया जाएगा "
 "इस प्रकार के मेल खाते मीडिया के घुसाने से."
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:11
 msgid "List of x-content/* types set to \"Open Folder\""
 msgstr "x-content/* प्रकार की सूची \"Open Folder\" में सेट की गई है"
 
-#: ../schemas/io.github.scarecrow.desktop.media-handling.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.media-handling.gschema.xml.in.in.h:12
 msgid ""
 "List of x-content/* types for which the user have chosen \"Open Folder\" in "
 "the preferences capplet. A folder window will be opened on insertion of "
@@ -1301,49 +1301,49 @@ msgstr ""
 "चुना है. कोई इस प्रकार के मेल खाते मीडिया के घुसाने से एक फोल्डर विंडो खोला "
 "जाएगा."
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:1
 msgid "Show notification banners"
 msgstr "अधिसूचना बैनर दिखाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:2
 msgid "Whether notification banners are visible for application notifications."
 msgstr "क्या अधिसूचना बैनर आवेदन सूचना के लिए दिखाई दे रहे हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:3
 msgid "Show notifications in the lock screen"
 msgstr "लॉक स्क्रीन में सूचनाएं दिखाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:4
 msgid "Whether notifications are shown in the lock screen or not."
 msgstr "क्या अधिसूचना लॉक स्क्रीन या नहीं में दिखाए जाते हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:5
 msgid "Application ID"
 msgstr "अनुप्रयोग आईडी"
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:6
 msgid "The application that this policy is for."
 msgstr "अनुप्रयोग है जो इस नीति के लिए है."
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:7
 #| msgid "Enable Animations"
 msgid "Enable notifications"
 msgstr "सूचनाएँ सक्षम करें "
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:8
 msgid "Whether notifications are globally enabled for this application."
 msgstr "क्या सूचनाएं विश्व स्तर पर इस अनुप्रयोग के लिए सक्षम हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:9
 #| msgid "Enable Visual Bell"
 msgid "Enable sound alerts"
 msgstr "ध्वनि अलर्ट सक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:10
 msgid "Whether notifications should be accompanied by sound alerts."
 msgstr "क्या सूचनाएं ध्वनि अलर्ट के साथ किया जाना चाहिए."
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:11
 msgid ""
 "Whether notification banners for this application are shown or not. Does not "
 "affect clicking on message tray buttons."
@@ -1351,11 +1351,11 @@ msgstr ""
 "क्या इस अनुप्रयोग के लिए अधिसूचना बैनर दिखाए या नहीं कर रहे हैं.को प्रभावित "
 "नहीं करता है संदेश ट्रे बटन पर क्लिक करके."
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:12
 msgid "Force automatic expanding of banners"
 msgstr "बल से स्वचालित बैनर का विस्तार"
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:13
 msgid ""
 "Whether notifications from this application are expanded automatically when "
 "in banner mode."
@@ -1363,34 +1363,34 @@ msgstr ""
 "क्या इस अनुप्रयोग से सूचनाएं स्वचालित रूप से विस्तार कर रहे हैं जब बैनर मोड "
 "में."
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:14
 #| msgid "Disable lock screen"
 msgid "Show in the lock screen"
 msgstr "लॉक स्क्रीन में दिखाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:15
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:15
 msgid ""
 "Whether notifications from this application are shown when the screen is "
 "locked."
 msgstr "क्या इस अनुप्रयोग से सूचनाएं दिखाए जाते हैं जब स्क्रीन बंद है."
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:16
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:16
 #| msgid "Show date in clock"
 msgid "Show details in the lock screen"
 msgstr "लॉक स्क्रीन में विवरण दिखाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.notifications.gschema.xml.in.in.h:17
+#: ../schemas/io.github.scarecrow-de.desktop.notifications.gschema.xml.in.in.h:17
 msgid ""
 "Whether the summary and body of notifications from this application will be "
 "visible in the locked screen."
 msgstr ""
 "क्या सारांश और इस अनुप्रयोग से सूचनाओं के शरीर बंद स्क्रीन में दिखाई होगा."
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:1
 msgid "Controls visibility of personal information"
 msgstr "व्यक्तिगत जानकारी की दृश्यता नियंत्रित करता है"
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:2
 msgid ""
 "If set to true, the system will make an effort to not divulge the user's "
 "identity on screen or on the network."
@@ -1398,19 +1398,19 @@ msgstr ""
 "अगर सही पर सेट, प्रणाली एक स्क्रीन पर या नेटवर्क पर प्रकट करने नहीं "
 "उपयोगकर्ता की पहचान के प्रयास कर देगा."
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:3
 msgid "Show full name in the user menu"
 msgstr "उपयोगकर्ता के मेनू में पूरा नाम दिखाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:4
 msgid "Whether the users full name is shown in the user menu or not."
 msgstr "क्या उपयोगकर्ताओं पूरा नाम उपयोगकर्ता मेनू या नहीं में दिखाया गया है."
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:5
 msgid "Whether to remove old files from the trash automatically"
 msgstr "क्या कचरा से पुराने फाइल को स्वचालित रूप से हटाने के लिए"
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:6
 msgid ""
 "If TRUE, automatically remove files from the trash when they are older than "
 "'old-files-age' days."
@@ -1418,11 +1418,11 @@ msgstr ""
 "यदि सही है, स्वतः रद्दी से फ़ाइलों को हटाने के लिए जब वे 'फ़ाइलों पुराने युग' "
 "के दिनों की तुलना में बड़े होते हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:7
 msgid "Whether to remove old temporary files automatically"
 msgstr "क्या पुराने अस्थायी फ़ाइलों को स्वचालित रूप से हटाने के लिए"
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:8
 msgid ""
 "If TRUE, automatically remove temporary files when they are older than 'old-"
 "files-age' days."
@@ -1430,27 +1430,27 @@ msgstr ""
 "यदि सही है, स्वचालित रूप से अस्थायी फ़ाइलों को हटाने के लिए जब वे 'फ़ाइलों "
 "पुराने युग' के दिनों की तुलना में बड़े होते हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:9
 msgid "Number of days to keep trash and temporary files"
 msgstr "कचरा और अस्थायी फाइलों को रखने के दिनों की संख्या"
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:10
 msgid "Consider trash and temporary files old after this many days."
 msgstr "कचरा और अस्थायी यह कई दिनों के बाद पुराने फाइल पर विचार करें."
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:11
 msgid "Whether to remember recently used files"
 msgstr "क्या हाल ही में उपयोग की गई फ़ाइलों को याद करने के लिए"
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:12
 msgid "If FALSE, applications will not remember recently used files."
 msgstr "अगर गलत है, आवेदन हाल ही में उपयोग की गई फ़ाइलों को याद नहीं होगा."
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:13
 msgid "Number of days to remember recently used files for"
 msgstr "दिनों की संख्या के लिए हाल ही में प्रयुक्त फ़ाइलों याद"
 
-#: ../schemas/io.github.scarecrow.desktop.privacy.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.desktop.privacy.gschema.xml.in.in.h:14
 msgid ""
 "Recently used files will be remembered for this many days. If set to 0, "
 "recent files will not be remembered; if set to -1, they will be retained "
@@ -1460,44 +1460,44 @@ msgstr ""
 "किया जाता है, हाल ही में फ़ाइलों को नहीं याद किया जाएगा, यदि -1 पर सेट किया "
 "जाता है, वे indefinitively बनाए रखा जाएगा."
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:1
 msgid "Activate when idle"
 msgstr "निष्क्रिय रहने पर सक्रिय करें"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:2
 msgid ""
 "Set this to TRUE to activate the screensaver when the session is idle. "
-"DEPRECATED: This key is deprecated and ignored. Set io.github.scarecrow.session.idle-"
+"DEPRECATED: This key is deprecated and ignored. Set io.github.scarecrow-de.session.idle-"
 "delay to 0 if you do not want to activate the screensaver."
 msgstr ""
 "सही पर सेट करें स्क्रीनसेवर को सक्रिय करने के लिए जब सत्र निष्क्रिय है. "
-"विरोधित: यह कुंजी पदावनत नजरअंदाज कर दिया है.0 से io.github.scarecrow.session.idle देरी "
+"विरोधित: यह कुंजी पदावनत नजरअंदाज कर दिया है.0 से io.github.scarecrow-de.session.idle देरी "
 "सेट अगर आप स्क्रीनसेवर सक्रिय नहीं करना चाहती."
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:3
 msgid "Lock on activation"
 msgstr "सक्रियकरण पर लॉक करें"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:4
 msgid "Set this to TRUE to lock the screen when the screensaver goes active."
 msgstr ""
 "इसे सही पर सेट करें स्क्रीन को तब लॉक करने के लिए जब स्क्रीनसेवर सक्रिय हो "
 "जाता है."
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:5
 msgid "Time before locking"
 msgstr "लॉकिंग से पहले का समय"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:6
 msgid ""
 "The number of seconds after screensaver activation before locking the screen."
 msgstr "स्क्रीन ताला लगा पहले स्क्रीनसेवर सक्रियता के बाद सेकंड की संख्या."
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:7
 msgid "Show full name in the lock screen"
 msgstr "लॉक स्क्रीन में पूरा नाम दिखाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:8
 msgid ""
 "Whether the user's full name is shown in the lock screen or not. This only "
 "affects the screen shield, the name is always shown in the unlock dialog."
@@ -1505,11 +1505,11 @@ msgstr ""
 "क्या उपयोगकर्ता का पूरा नाम लॉक स्क्रीन या नहीं में दिखाया गया है.यह केवल "
 "स्क्रीन ढाल को प्रभावित करता है, नाम हमेशा अनलॉक संवाद में दिखाया गया है."
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:9
 msgid "Allow embedding a keyboard into the window"
 msgstr "विंडो में कीबोर्ड अंतःस्थापन की स्वीकृति दें"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:10
 #| msgid ""
 #| "Set this to TRUE to allow embedding a keyboard into the window when "
 #| "trying to unlock. The \"keyboard_command\" key must be set with the "
@@ -1523,11 +1523,11 @@ msgstr ""
 "अनुमति.\"Keyboard_command\" कुंजी उपयुक्त आदेश के साथ निर्धारित होना चाहिए. "
 "विरोधित: यह कुंजी पदावनत नजरअंदाज कर दिया है."
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:11
 msgid "Embedded keyboard command"
 msgstr "अंतःस्थापित कीबोर्ड कमांड"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:12
 #| msgid ""
 #| "The command that will be run, if the \"embedded_keyboard_enabled\" key is "
 #| "set to TRUE, to embed a keyboard widget into the window. This command "
@@ -1544,11 +1544,11 @@ msgstr ""
 "और एक मानक आउटपुट पर विंडो XID उत्पादन को लागू करना चाहिए. विरोधित: यह कुंजी "
 "पदावनत नजरअंदाज कर दिया है."
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:13
 msgid "Allow logout"
 msgstr "लॉगआउट की अनुमति दें"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:14
 msgid ""
 "Set this to TRUE to offer an option in the unlock dialog to allow logging "
 "out after a delay. The delay is specified in the \"logout_delay\" key. "
@@ -1558,11 +1558,11 @@ msgstr ""
 "करने की अनुमति प्रदान करते हैं. देरी \"logout_delay\" कुंजी में निर्दिष्ट "
 "किया जाता है. विरोधित: यह कुंजी पदावनत नजरअंदाज कर दिया है."
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:15
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:15
 msgid "Time before logout option"
 msgstr "लॉगआउट विकल्प से पहले का समय"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:16
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:16
 msgid ""
 "The number of seconds after the screensaver activation before a logout "
 "option will appear in the unlock dialog. This key has effect only if the "
@@ -1573,11 +1573,11 @@ msgstr ""
 "विकल्प अनलॉक संवाद में दिखाई देगा. यह कुंजी का प्रभाव केवल अगर 'logout_enable "
 "\"कुंजी सही पर सेट है. विरोधित: यह कुंजी पदावनत है और नजरअंदाज कर दिया"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:17
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:17
 msgid "Logout command"
 msgstr "लॉगआउट कमांड"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:18
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:18
 #| msgid ""
 #| "The command to invoke when the logout button is clicked. This command "
 #| "should simply log the user out without any interaction. This key has "
@@ -1593,11 +1593,11 @@ msgstr ""
 "'logout_enable \"कुंजी सही पर सेट है. विरोधित: यह कुंजी पदावनत नजरअंदाज कर "
 "दिया है."
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:19
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:19
 msgid "Allow user switching"
 msgstr "प्रयोक्ता स्विचिंग की अनुमति दें"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:20
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:20
 msgid ""
 "Set this to TRUE to offer an option in the unlock dialog to switch to a "
 "different user account."
@@ -1605,11 +1605,11 @@ msgstr ""
 "भिन्न उपयोक्ता खाते में जाने के लिए अनलॉक संवाद में एक विकल्प देने के लिए इसे "
 "सही पर सेट करें."
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:21
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:21
 msgid "Allow the session status message to be displayed"
 msgstr "प्रदर्शन के लिए सत्र स्थिति संदेश की अनुमति दें"
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:22
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:22
 #| msgid ""
 #| "Allow the session status message to be displayed when the screen is "
 #| "locked."
@@ -1620,7 +1620,7 @@ msgstr ""
 "सत्र स्थिति संदेश जब स्क्रीन बंद किए जाने की अनुमति दें. विरोधित: यह कुंजी "
 "पदावनत नजरअंदाज कर दिया है."
 
-#: ../schemas/io.github.scarecrow.desktop.screensaver.gschema.xml.in.in.h:26
+#: ../schemas/io.github.scarecrow-de.desktop.screensaver.gschema.xml.in.in.h:26
 msgid ""
 "URI to use for the background image. Not that the backend only supports "
 "local (file://) URIs."
@@ -1628,12 +1628,12 @@ msgstr ""
 "यूआरआइ पृष्ठभूमि छवि के लिए उपयोग.ध्यान दें कि बैकेंड केवल स्थानीय (फ़ाइल :/ "
 "/) यूआरआई का समर्थन करता है."
 
-#: ../schemas/io.github.scarecrow.desktop.search-providers.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.search-providers.gschema.xml.in.in.h:1
 #| msgid "Disable all external thumbnailers"
 msgid "Disable all external search providers"
 msgstr "सभी बाहरी खोज प्रदाताओं निष्क्रिय करें"
 
-#: ../schemas/io.github.scarecrow.desktop.search-providers.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.search-providers.gschema.xml.in.in.h:2
 msgid ""
 "Set to true to disable all external search provider programs, whether or not "
 "they are independently disabled or enabled. External search providers are "
@@ -1644,23 +1644,23 @@ msgstr ""
 "$ XDG_DATA_DIR / gnome-खोल / खोज प्रदाताओं में आवेदन द्वारा स्थापित कर रहे "
 "हैं."
 
-#: ../schemas/io.github.scarecrow.desktop.search-providers.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.search-providers.gschema.xml.in.in.h:3
 msgid "List of desktop file IDs for which search provider should be disabled"
 msgstr ""
 "डेस्कटॉप फ़ाइल आईडी जिसके लिए खोज प्रदाता निष्क्रिय किया जाना चाहिए की सूची"
 
-#: ../schemas/io.github.scarecrow.desktop.search-providers.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.search-providers.gschema.xml.in.in.h:4
 msgid ""
 "Results for applications contained in this list will not be displayed when "
 "searching."
 msgstr ""
 "जब खोज इस सूची में निहित अनुप्रयोगों के लिए परिणाम प्रदर्शित नहीं किया जाएगा."
 
-#: ../schemas/io.github.scarecrow.desktop.search-providers.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.search-providers.gschema.xml.in.in.h:5
 msgid "List of desktop file IDs for search providers sort order"
 msgstr "डेस्कटॉप फ़ाइल आईडी की खोज प्रदाताओं सॉर्ट क्रम के लिए सूची"
 
-#: ../schemas/io.github.scarecrow.desktop.search-providers.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.search-providers.gschema.xml.in.in.h:6
 msgid ""
 "Results for applications contained in this list will be displayed in the "
 "specified order. Results for applications not specified in this list will be "
@@ -1670,40 +1670,40 @@ msgstr ""
 "जाएगा.इस सूची में विनिर्दिष्ट नहीं अनुप्रयोगों के लिए परिणाम सूची के अंतिम "
 "आइटम से पहले प्रदर्शित किया जाएगा, अगर यह एक से अधिक आइटम है."
 
-#: ../schemas/io.github.scarecrow.desktop.session.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.session.gschema.xml.in.in.h:1
 msgid "Time before session is considered idle"
 msgstr "सत्र के निष्क्रिय माने जाने के पहले का समय"
 
-#: ../schemas/io.github.scarecrow.desktop.session.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.session.gschema.xml.in.in.h:2
 msgid ""
 "The number of seconds of inactivity before the session is considered idle."
 msgstr "सत्र से पहले निष्क्रियता के सेकंड की संख्या बेकार माना जाता है."
 
-#: ../schemas/io.github.scarecrow.desktop.sound.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.sound.gschema.xml.in.in.h:1
 msgid "Sounds for events"
 msgstr "घटनाओं हेतु ध्वनियाँ"
 
-#: ../schemas/io.github.scarecrow.desktop.sound.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.sound.gschema.xml.in.in.h:2
 msgid "Whether to play sounds on user events."
 msgstr "उपयोगकर्ता घटनाओं में ध्वनियाँ बजाएँ या नहीं"
 
-#: ../schemas/io.github.scarecrow.desktop.sound.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.sound.gschema.xml.in.in.h:3
 msgid "Sound theme name"
 msgstr "ध्वनि प्रसंग नाम"
 
-#: ../schemas/io.github.scarecrow.desktop.sound.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.sound.gschema.xml.in.in.h:4
 msgid "The XDG sound theme to use for event sounds."
 msgstr "घटना ध्वनि के प्रयोग के लिए XDG ध्वनि प्रसंग."
 
-#: ../schemas/io.github.scarecrow.desktop.sound.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.sound.gschema.xml.in.in.h:5
 msgid "Input feedback sounds"
 msgstr "इनपुट फ़ीडबैक ध्वनि"
 
-#: ../schemas/io.github.scarecrow.desktop.sound.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.sound.gschema.xml.in.in.h:6
 msgid "Whether to play sounds on input events."
 msgstr "क्या इनपुट घटना पर ध्वनि बजाएँ या नहीं."
 
-#: ../schemas/io.github.scarecrow.desktop.thumbnail-cache.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.thumbnail-cache.gschema.xml.in.in.h:1
 msgid ""
 "Maximum age for thumbnails in the cache, in days. Set to -1 to disable "
 "cleaning."
@@ -1712,7 +1712,7 @@ msgstr ""
 "लिए -1 पर सेट "
 "करें."
 
-#: ../schemas/io.github.scarecrow.desktop.thumbnail-cache.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.thumbnail-cache.gschema.xml.in.in.h:2
 msgid ""
 "Maximum size of the thumbnail cache, in megabytes. Set to -1 to disable "
 "cleaning."
@@ -1721,11 +1721,11 @@ msgstr ""
 "के लिए -1 पर "
 "सेट करें."
 
-#: ../schemas/io.github.scarecrow.desktop.thumbnailers.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.thumbnailers.gschema.xml.in.in.h:1
 msgid "Disable all external thumbnailers"
 msgstr "सभी बाहरी थम्बनेलर्स अक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.thumbnailers.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.thumbnailers.gschema.xml.in.in.h:2
 msgid ""
 "Set to true to disable all external thumbnailer programs, independent on "
 "whether they are independently disabled/enabled."
@@ -1733,347 +1733,347 @@ msgstr ""
 "सभी बाह्य थंबनेलर प्रोग्राम को निष्क्रिय करने के लिये सही वे स्वतंत्र रूप से "
 "निष्क्रिय हैं या नहीं"
 
-#: ../schemas/io.github.scarecrow.desktop.thumbnailers.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.thumbnailers.gschema.xml.in.in.h:3
 msgid ""
 "List of mime-types for which external thumbnailer programs will be disabled"
 msgstr ""
 "MIME-प्रकार जिसके लिए बाह्य थंबनेलर प्रोग्राम को निष्क्रिय किया जाएगा की सूची"
 
-#: ../schemas/io.github.scarecrow.desktop.thumbnailers.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.thumbnailers.gschema.xml.in.in.h:4
 msgid ""
 "Thumbnails will not be created for files whose mime-type is contained in the "
 "list."
 msgstr ""
 "थंबनेल फ़ाइलें MIME-प्रकार सूची में निहित है जिसका के लिए नहीं बनाया जाएगा."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:1
 msgid "Switch to workspace 1"
 msgstr "कार्यस्थान 1 पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:2
 msgid "Switch to workspace 2"
 msgstr "कार्यस्थान 2 पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:3
 msgid "Switch to workspace 3"
 msgstr "कार्यस्थान 3 पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:4
 msgid "Switch to workspace 4"
 msgstr "कार्यस्थान 4 पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:5
 msgid "Switch to workspace 5"
 msgstr "कार्यस्थान 5 पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:6
 msgid "Switch to workspace 6"
 msgstr "कार्यस्थान 6 पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:7
 msgid "Switch to workspace 7"
 msgstr "कार्यस्थान 7  पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:8
 msgid "Switch to workspace 8"
 msgstr "कार्यस्थान 8 पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:9
 msgid "Switch to workspace 9"
 msgstr "कार्यस्थान 9 पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:10
 msgid "Switch to workspace 10"
 msgstr "कार्यस्थान 10  पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:11
 msgid "Switch to workspace 11"
 msgstr "कार्यस्थान 11  पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:12
 msgid "Switch to workspace 12"
 msgstr "कार्यस्थान 12  पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:13
 msgid "Switch to workspace left"
 msgstr "कार्यस्थान बाईं करने के लिए स्विच"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:14
 msgid "Switch to workspace right"
 msgstr "कार्यस्थान सही करने के लिए स्विच करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:15
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:15
 msgid "Switch to workspace above"
 msgstr "ऊपर कार्यस्थान पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:16
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:16
 msgid "Switch to workspace below"
 msgstr "नीचे कार्यस्थान पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:17
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:17
 msgid "Switch windows of an application"
 msgstr "एक अनुप्रयोग की विंडोज़ स्विच करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:18
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:18
 msgid "Reverse switch windows of an application"
 msgstr "उलटें किसी अनुप्रयोग की विंडोज़ पर जाएँ "
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:19
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:19
 msgid "Switch applications"
 msgstr "अनुप्रयोगों के बीच स्विच करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:20
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:20
 msgid "Reverse switch applications"
 msgstr "उलटें अनुप्रयोगों के बीच जाएँ "
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:21
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:21
 #| msgid "Show click type window"
 msgid "Switch windows"
 msgstr "विंडोज़ स्विच करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:22
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:22
 #| msgid "Resize window"
 msgid "Reverse switch windows"
 msgstr "उलटें विंडोज़ पर जाएँ "
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:23
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:23
 msgid "Switch system controls"
 msgstr "नियंत्रण प्रणाली पर स्विच करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:24
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:24
 msgid "Reverse switch system controls"
 msgstr "उलटें नियंत्रण प्रणाली पर स्विच करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:25
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:25
 msgid "Switch windows of an app directly"
 msgstr "सीधे अनुप्रयोग की विंडोज़ पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:26
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:26
 msgid "Reverse switch windows of an app directly"
 msgstr "उलटें सीधे अनुप्रयोग की विंडोज़ पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:27
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:27
 msgid "Switch windows directly"
 msgstr "सीधे विंडोज़ पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:28
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:28
 msgid "Reverse switch windows directly"
 msgstr "उलटें सीधे विंडोज़ पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:29
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:29
 msgid "Switch system controls directly"
 msgstr "सिस्टम के सीधे नियंत्रण पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:30
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:30
 msgid "Reverse switch system controls directly"
 msgstr "उलटें सिस्टम को सीधे नियंत्रण पर जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:31
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:31
 msgid "Hide all normal windows"
 msgstr "सभी सामान्य विंडो को छुपाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:32
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:32
 msgid "Show the activities overview"
 msgstr "गतिविधियों के अवलोकन करें "
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:33
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:33
 msgid "Show the run command prompt"
 msgstr "चलाए गए कमांड  प्रॉम्प्ट दिखाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:34
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:34
 msgid "Don't use"
 msgstr "का उपयोग न करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:35
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:35
 msgid "Activate the window menu"
 msgstr "विंडो मेन्यू सक्रिय करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:36
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:36
 msgid "Toggle fullscreen mode"
 msgstr "पूरा स्क्रीन मोड टॉगल करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:37
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:37
 msgid "Toggle maximization state"
 msgstr "अधिकतम स्थिति टॉगल करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:38
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:38
 msgid "Toggle window always appearing on top"
 msgstr "विंडो टॉगल हमेशा शीर्ष पर दिखाई दे"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:39
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:39
 msgid "Maximize window"
 msgstr "विंडो अधिकतम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:40
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:40
 msgid "Restore window"
 msgstr "विंडो फिर बहाल करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:41
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:41
 msgid "Toggle shaded state"
 msgstr "आभायुक्त स्थिति टॉगल करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:42
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:42
 msgid "Minimize window"
 msgstr "विंडो को न्यूनतम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:43
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:43
 msgid "Close window"
 msgstr "विंडो बंद करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:44
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:44
 msgid "Move window"
 msgstr "विंडो खिसकाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:45
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:45
 msgid "Resize window"
 msgstr "विंडो का आकार बदलें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:46
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:46
 msgid "Toggle window on all workspaces or one"
 msgstr "सभी कार्यस्थानों या एक पर विंडो टॉगल करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:47
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:47
 msgid "Move window to workspace 1"
 msgstr "विंडो को कार्यस्थान 1 पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:48
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:48
 msgid "Move window to workspace 2"
 msgstr "विंडो को कार्यस्थान 2 पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:49
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:49
 msgid "Move window to workspace 3"
 msgstr "विंडो को कार्यस्थान 3 पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:50
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:50
 msgid "Move window to workspace 4"
 msgstr "विंडो को कार्यस्थान 4 पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:51
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:51
 msgid "Move window to workspace 5"
 msgstr "विंडो को कार्यस्थान 5 पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:52
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:52
 msgid "Move window to workspace 6"
 msgstr "विंडो को कार्यस्थान 6 पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:53
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:53
 msgid "Move window to workspace 7"
 msgstr "विंडो को कार्यस्थान 7 पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:54
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:54
 msgid "Move window to workspace 8"
 msgstr "विंडो को कार्यस्थान 8 पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:55
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:55
 msgid "Move window to workspace 9"
 msgstr "विंडो को कार्यस्थान 9 पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:56
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:56
 msgid "Move window to workspace 10"
 msgstr "विंडो को कार्यस्थान 10  पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:57
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:57
 msgid "Move window to workspace 11"
 msgstr "विंडो को कार्यस्थान 11 पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:58
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:58
 msgid "Move window to workspace 12"
 msgstr "विंडो को कार्यस्थान 12 पर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:59
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:59
 msgid "Move window one workspace to the left"
 msgstr "विंडो को एक कार्यस्थान बाएँ लाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:60
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:60
 msgid "Move window one workspace to the right"
 msgstr "विंडो को एक कार्यस्थान दाएँ लाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:61
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:61
 msgid "Move window one workspace up"
 msgstr "विंडो को एक कार्यस्थान ऊपर लाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:62
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:62
 msgid "Move window one workspace down"
 msgstr "विंडो को एक कार्यस्थान नीचे लाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:63
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:63
 msgid "Raise window if covered, otherwise lower it"
 msgstr "विंडो को उठाएं अगर कवर किया गया, अन्यथा यह कम है"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:64
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:64
 msgid "Raise window above other windows"
 msgstr "दूसरे विंडो पर विंडो बढ़ाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:65
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:65
 msgid "Lower window below other windows"
 msgstr "विंडो को अन्य विंडो के नीचे रखें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:66
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:66
 msgid "Maximize window vertically"
 msgstr "विंडो खड़ा अधिकतम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:67
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:67
 msgid "Maximize window horizontally"
 msgstr "विंडो आड़ा अधिकतम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:68
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:68
 msgid "Move window to top left corner"
 msgstr "ऊपरी बाएँ कोने में विंडो खिसकाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:69
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:69
 msgid "Move window to top right corner"
 msgstr "ऊपरी दाएँ कोने में विंडो खिसकाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:70
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:70
 msgid "Move window to bottom left corner"
 msgstr "निचले बाएं कोने में विंडो खिसकाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:71
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:71
 msgid "Move window to bottom right corner"
 msgstr "नीचे सही कोने में विंडो खिसकाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:72
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:72
 msgid "Move window to top edge of screen"
 msgstr "स्क्रीन के ऊपरी किनारे में विंडो खिसकाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:73
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:73
 msgid "Move window to bottom edge of screen"
 msgstr "स्क्रीन के नीचे किनारे में विंडो खिसकाएं"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:74
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:74
 msgid "Move window to right side of screen"
 msgstr "विंडो स्क्रीन के दाईं ओर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:75
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:75
 msgid "Move window to left side of screen"
 msgstr "विंडो स्क्रीन के बाईं ओर ले जाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:76
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:76
 msgid "Move window to center of screen"
 msgstr "विंडो को स्क्रीन के केंद्र में खिसकाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:77
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:77
 #| msgid "Switch to workspace 1"
 msgid "Switch input source"
 msgstr "इनपुट स्रोत के लिए स्विच करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:78
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:78
 msgid "Binding to select the next input source"
 msgstr "अगले इनपुट स्रोत का चयन करने के लिए बाध्यकारी"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:79
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:79
 msgid "Switch input source backward"
 msgstr "पिछड़े इनपुट स्रोत स्विच करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.keybindings.gschema.xml.in.in.h:80
+#: ../schemas/io.github.scarecrow-de.desktop.wm.keybindings.gschema.xml.in.in.h:80
 msgid "Binding to select the previous input source"
 msgstr "पिछली इनपुट स्रोत का चयन करने के लिए बाध्यकारी"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:1
 msgid "Modifier to use for modified window click actions"
 msgstr "विंडो क्लिक क्रिया परिवर्तन हेतु उपयोग में परिवर्धक"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:2
 msgid ""
 "Clicking a window while holding down this modifier key will move the window "
 "(left click), resize the window (middle click), or show the window menu "
@@ -2087,11 +2087,11 @@ msgstr ""
 "उपयोग बदली जा सकती है.संशोधक के रूप में व्यक्त किया जाता है <![CDATA[\"<Alt>"
 "\"]]> या <![CDATA[\"<Super>\"]]> उदाहरण के लिए."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:3
 msgid "Whether to resize with the right button"
 msgstr "क्या दाहिना बटन फिर आकार दिया जाना है"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:4
 msgid ""
 "Set this to true to resize with the right button and show a menu with the "
 "middle button while holding down the key given in \"mouse-button-modifier\"; "
@@ -2101,11 +2101,11 @@ msgstr ""
 "माउस बटन परिवर्धक \"में दी गई कुंजी पकड़, यह सेट यह विपरीत तरह के आसपास काम "
 "करने के लिए बनाने के लिए गलत है."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:5
 msgid "Arrangement of buttons on the titlebar"
 msgstr "शीर्षक-पट्टी में बटनों का विन्यास"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:6
 msgid ""
 "Arrangement of buttons on the titlebar. The value should be a string, such "
 "as \"menu:minimize,maximize,spacer,close\"; the colon separates the left "
@@ -2125,11 +2125,11 @@ msgstr ""
 "बगैर ये जोड़े जा "
 "सकें."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:7
 msgid "Window focus mode"
 msgstr "विंडो फ़ोकस मोड"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:8
 msgid ""
 "The window focus mode indicates how windows are activated. It has three "
 "possible values; \"click\" means windows must be clicked in order to focus "
@@ -2145,11 +2145,11 @@ msgstr ""
 "होंगे जब "
 "माउस विंडो में प्रवेश करेगा तथा फ़ोकस से बाहर होगा जब माउस विंडो से बाहर होगा."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:9
 msgid "Control how new windows get focus"
 msgstr "नियंत्रित करें कि कैसे नया विंडो फोकस पाता है"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:10
 msgid ""
 "This option provides additional control over how newly created windows get "
 "focus. It has two possible values; \"smart\" applies the user's normal focus "
@@ -2163,11 +2163,11 @@ msgstr ""
 "\" ऐसे विंडो के रूप में आता है जो टर्मिनल से फोकस नहीं किये गये रूप में आता "
 "है."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:11
 msgid "Whether raising should be a side-effect of other user interactions"
 msgstr "अन्य प्रयोक्ता अंतःक्रिया के प्रभाव को क्या उठाया जाना चाहिये"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:12
 msgid ""
 "Setting this option to false can lead to buggy behavior, so users are "
 "strongly discouraged from changing it from the default of true. Many actions "
@@ -2207,11 +2207,11 @@ msgstr ""
 "प्रबंधक को तोड़ने के लिए और कहा कि वे इस विकल्प को वापस करने के लिए सही या "
 "बदलने के साथ रहने की आवश्यकता\"बग\" उन्होंने अनुरोध किया."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:13
 msgid "Action on title bar double-click"
 msgstr "शीर्षक पट्टी में दोहरा-क्लिक करने पर क्रिया"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:14
 msgid ""
 "This option determines the effects of double-clicking on the title bar. "
 "Current valid options are 'toggle-shade', which will shade/unshade the "
@@ -2230,11 +2230,11 @@ msgstr ""
 "मेनू को प्रदर्शित करने के लिए, 'कम' जो सभी दूसरों के पीछे खिड़की डाल देंगे,और "
 "'कोई नहीं' जो कुछ भी नहीं होगा."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:15
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:15
 msgid "Action on title bar middle-click"
 msgstr "शीर्षक पट्टी में मध्य-क्लिक पर क्रिया"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:16
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:16
 msgid ""
 "This option determines the effects of middle-clicking on the title bar. "
 "Current valid options are 'toggle-shade', which will shade/unshade the "
@@ -2254,11 +2254,11 @@ msgstr ""
 "विंडो मेनू, 'कम है' जो सभी दूसरों के पीछे खिड़की डाल देंगे,"
 "और 'कोई नहीं' जो कुछ भी नहीं होगा."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:17
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:17
 msgid "Action on title bar right-click"
 msgstr "शीर्षक पट्टी में दाहिना-क्लिक पर क्रिया"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:18
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:18
 msgid ""
 "This option determines the effects of right-clicking on the title bar. "
 "Current valid options are 'toggle-shade', which will shade/unshade the "
@@ -2277,11 +2277,11 @@ msgstr ""
 "मेनू को प्रदर्शित करने के लिए, 'कम' जो सभी दूसरों के पीछे खिड़की डाल देंगे,"
 "और 'कोई नहीं' जो कुछ भी नहीं होगा."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:19
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:19
 msgid "Automatically raises the focused window"
 msgstr "फ़ोकस किए विंडो को स्वचालित उठाएँ"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:20
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:20
 msgid ""
 "If set to true, and the focus mode is either \"sloppy\" or \"mouse\" then "
 "the focused window will be automatically raised after a delay specified by "
@@ -2294,11 +2294,11 @@ msgstr ""
 "यह बढ़ा है, और न ही ड्रैग और ड्रॉप के दौरान एक खिड़की में प्रवेश करने के "
 "लिए...."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:21
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:21
 msgid "Delay in milliseconds for the auto raise option"
 msgstr "आटो रेस विकल्प हेतु मिलीसेकण्ड्स में देरी"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:22
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:22
 msgid ""
 "The time delay before raising a window if auto-raise is set to true. The "
 "delay is given in thousandths of a second."
@@ -2307,22 +2307,22 @@ msgstr ""
 "समय में देरी."
 "देरी एक दूसरे के हजारवें हिस्से में दिया जाता है."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:23
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:23
 msgid "Current theme"
 msgstr "वर्तमान प्रसंग"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:24
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:24
 msgid ""
 "The theme determines the appearance of window borders, titlebar, and so "
 "forth."
 msgstr ""
 "प्रसंग, विंडो किनारा, शीर्षक पट्टी इत्यादि के रंग-रूप को निर्धारित करता है."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:25
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:25
 msgid "Use standard system font in window titles"
 msgstr "विंडो शीर्षकों में मानक तंत्र फ़ॉन्ट प्रयोग करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:26
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:26
 msgid ""
 "If true, ignore the titlebar-font option, and use the standard application "
 "font for window titles."
@@ -2330,11 +2330,11 @@ msgstr ""
 "अगर सही है, शीर्षकबार फ़ॉन्ट विकल्प का अनदेखा करें तथा विंडो शीर्षकों हेतु "
 "मानक अनुप्रयोग फ़ॉन्ट का उपयोग."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:27
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:27
 msgid "Window title font"
 msgstr "विंडो शीर्षक फ़ॉन्ट"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:28
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:28
 msgid ""
 "A font description string describing a font for window titlebars. The size "
 "from the description will only be used if the titlebar-font-size option is "
@@ -2346,11 +2346,11 @@ msgstr ""
 "अलावा, इस विकल्प अगर titlebar का उपयोग करता है डेस्कटॉप फ़ॉन्ट विकल्प को सच "
 "करने के लिए सेट कर दिया जाता है अक्षम है."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:29
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:29
 msgid "Number of workspaces"
 msgstr "कार्यस्थान की संख्या"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:30
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:30
 msgid ""
 "Number of workspaces. Must be more than zero, and has a fixed maximum to "
 "prevent making the desktop unusable by accidentally asking for too many "
@@ -2361,11 +2361,11 @@ msgstr ""
 "चाहिये ज्यादा कार्यस्थान की मांग करने पर आपके डेस्कटॉप को दुर्धटनावश नष्ट "
 "होने से बचाने हेतु."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:31
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:31
 msgid "System Bell is Audible"
 msgstr "सिस्टम घंटी सुनने योग्य है"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:32
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:32
 msgid ""
 "Determines whether applications or the system can generate audible 'beeps'; "
 "may be used in conjunction with 'visual bell' to allow silent 'beeps'."
@@ -2374,11 +2374,11 @@ msgstr ""
 "शायद "
 "दृष्टिगोच़र घंटी के साथ उपयोग किया जाकर शांति मय बीप स्वीकारे."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:33
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:33
 msgid "Enable Visual Bell"
 msgstr "दृष्टिगोच़र घंटी सक्षम करें"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:34
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:34
 msgid ""
 "Turns on a visual indication when an application or the system issues a "
 "'bell' or 'beep'; useful for the hard-of-hearing and for use in noisy "
@@ -2388,11 +2388,11 @@ msgstr ""
 "शोरयुक्त "
 "वातावरण- जहाँ सुनने में कठिनाई हो या उंचा सुनने वाले के लिये उपयोगी होता है."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:35
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:35
 msgid "Visual Bell Type"
 msgstr "दृष्टिगोच़र घंटी प्रकार"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:36
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:36
 msgid ""
 "Tells the WM how to implement the visual indication that the system bell or "
 "another application 'bell' indicator has been rung. Currently there are two "
@@ -2410,12 +2410,12 @@ msgstr ""
 "बीप\" के लिए मामला है),"
 "वर्तमान फ़ोकस विंडो का शीर्षक पट्टी फ्लैश है."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:37
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:37
 msgid "(Not implemented) Navigation works in terms of applications not windows"
 msgstr ""
 "(कार्यान्वित नहीं) संचलन अनुप्रयोगों के अनुसार चलता है, विंडोज़ से नहीं"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:38
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:38
 msgid ""
 "If true, then the WM works in terms of applications rather than windows. The "
 "concept is a bit abstract, but in general an application-based setup is more "
@@ -2433,12 +2433,12 @@ msgstr ""
 "पारित कर रहे हैं.अनुप्रयोग आधारित मोड, तथापि, पल में काफी हद तक लागू नहीं "
 "किया गया."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:39
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:39
 msgid "Disable misfeatures that are required by old or broken applications"
 msgstr ""
 "मिसफीचर्स असमर्थ करें जो कि पुराने या टूटे अनुप्रयोगों द्वारा वांछित होते हैं"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:40
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:40
 msgid ""
 "Some applications disregard specifications in ways that result in window "
 "manager misfeatures. This option puts the WM in a rigorously correct mode, "
@@ -2449,11 +2449,11 @@ msgstr ""
 "विनिर्देशों उपेक्षा.यह विकल्प काफी सही मोड है, जो कि ज्यादा संगत उपयोक्ता "
 "अंतरफलक देता WM डालता कोई गलत अनुप्रयोग चलाने की जरूरत नहीं है."
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:41
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:41
 msgid "The names of the workspaces"
 msgstr "कार्यस्थानों के नाम"
 
-#: ../schemas/io.github.scarecrow.desktop.wm.preferences.gschema.xml.in.in.h:42
+#: ../schemas/io.github.scarecrow-de.desktop.wm.preferences.gschema.xml.in.in.h:42
 msgid ""
 "Defines the names that should be assigned to workspaces. If the list is too "
 "long for the current number of workspaces, names in excess will be ignored. "
@@ -2465,11 +2465,11 @@ msgstr ""
 "दिया जाएगा.यदि सूची बहुत छोटा है, या खाली नाम भी शामिल है, लापता मूल्यों "
 "डिफ़ॉल्ट (\"कार्यस्थान एन\") के साथ प्रतिस्थापित किया जाएगा."
 
-#: ../schemas/io.github.scarecrow.system.locale.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.system.locale.gschema.xml.in.in.h:1
 msgid "The locale to use for dates / numbers formats"
 msgstr "दिनांक / संख्या स्वरूपों के लिए उपयोग करने के लिए लोकेल"
 
-#: ../schemas/io.github.scarecrow.system.locale.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.system.locale.gschema.xml.in.in.h:2
 msgid ""
 "Specify the locale to be used for displaying dates, times and numbers "
 "formats."
@@ -2477,11 +2477,11 @@ msgstr ""
 "दिनांक और समय, और संख्या स्वरूपों को प्रदर्शित करने के लिए इस्तेमाल किया जा "
 "स्थान निर्दिष्ट."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:1
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:1
 msgid "Proxy configuration mode"
 msgstr "प्राक्सी विन्यास विधि"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:2
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:2
 msgid ""
 "Select the proxy configuration mode. Supported values are \"none\", \"manual"
 "\", \"auto\". If this is \"none\", then proxies are not used. If it is \"auto"
@@ -2513,11 +2513,11 @@ msgstr ""
 "HTTP, HTTPS और FTP प्रॉक्सी सेटिंग्स यह केवल उन लोगों के प्रोटोकॉल के लिए को "
 "पार कर जाती हैं."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:3
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:3
 msgid "Automatic proxy configuration URL"
 msgstr "स्वचालित HTTP प्राक्सी URL"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:4
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:4
 msgid ""
 "URL that provides proxy configuration values. When mode is \"auto\", this "
 "URL is used to look up proxy information for all protocols."
@@ -2526,11 +2526,11 @@ msgstr ""
 "यूआरएल के लिए सभी प्रोटोकॉल के लिए प्रॉक्सी जानकारी को देखने के लिए प्रयोग "
 "किया जाता है."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:5
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:5
 msgid "Non-proxy hosts"
 msgstr "गैर प्राक्सी होस्ट"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:6
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:6
 msgid ""
 "This key contains a list of hosts which are connected to directly, rather "
 "than via the proxy (if it is active). The values can be hostnames, domains "
@@ -2544,15 +2544,15 @@ msgstr ""
 "IP मेजबानाम पता (दोनों IPv4 और IPv6) और संजाल पता किसी नेटमास्क के साथ (कुछ "
 "192.168.0.0/24 की तरह)."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:7
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:7
 msgid "Unused; ignore"
 msgstr "अप्रयुक्त, की अनदेखी"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:8
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:8
 msgid "This key is not used, and should not be read or modified."
 msgstr "इस चाबी का इस्तेमाल नहीं है, और नहीं पढ़ना चाहिए या संशोधित."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:9
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:9
 msgid ""
 "This key is not used; HTTP proxying is enabled when the host key is non-"
 "empty and the port is non-0."
@@ -2560,19 +2560,19 @@ msgstr ""
 "यह कुंजी नहीं किया जाता है; प्रॉक्सी HTTP सक्षम है जब मेजबान कुंजी गैर खाली "
 "है और गैर-0 बंदरगाह है."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:10
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:10
 msgid "HTTP proxy host name"
 msgstr "HTTP प्राक्सी होस्टनेम"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:11
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:11
 msgid "The machine name to proxy HTTP through."
 msgstr "प्राक्सी HTTP से होकर मशीन नाम."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:12
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:12
 msgid "HTTP proxy port"
 msgstr "HTTP प्राक्सी पोर्ट"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:13
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:13
 msgid ""
 "The port on the machine defined by \"/system/proxy/http/host\" that you "
 "proxy through."
@@ -2580,11 +2580,11 @@ msgstr ""
 "मशीन पर पोर्ट \"प्रणाली / / प्रॉक्सी http / / मेजबान है कि आप प्रॉक्सी के "
 "माध्यम से परिभाषित किया गया किया."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:14
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:14
 msgid "Authenticate proxy server connections"
 msgstr "प्राक्सी सर्वर कनेक्शन सत्यापित करें"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:15
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:15
 msgid ""
 "If true, then connections to the proxy server require authentication. The "
 "username/password combo is defined by \"/system/proxy/http/authentication-"
@@ -2602,37 +2602,37 @@ msgstr ""
 "जिस तरह से करने के लिए निर्दिष्ट कर सकते हैं कि यह प्रमाणीकरण का उपयोग करना "
 "चाहिए."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:16
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:16
 msgid "HTTP proxy username"
 msgstr "HTTP प्राक्सी उपयोक्तानाम"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:17
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:17
 msgid "User name to pass as authentication when doing HTTP proxying."
 msgstr ""
 "जब एचटीटीपी प्रॉक्सी कर रहे हों तो प्रामाणीकरण हेतु पास करने के लिए "
 "उपयोगकर्ता नाम."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:18
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:18
 msgid "HTTP proxy password"
 msgstr "HTTP प्राक्सी कूटशब्द"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:19
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:19
 msgid "Password to pass as authentication when doing HTTP proxying."
 msgstr "बतौर सत्यापन आगे जाने के लिए कूटशब्द जब HTTP प्रॉक्सी कर रहे हैं."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:20
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:20
 msgid "Secure HTTP proxy host name"
 msgstr "सुरक्षा HTTP प्राक्सी मेजबान नाम"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:21
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:21
 msgid "The machine name to proxy secure HTTP through."
 msgstr "प्राक्सी सुरक्षित HTTP से होकर मशीन नाम."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:22
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:22
 msgid "Secure HTTP proxy port"
 msgstr "सुरक्षित HTTP प्राक्सी पोर्ट"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:23
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:23
 msgid ""
 "The port on the machine defined by \"/system/proxy/https/host\" that you "
 "proxy through."
@@ -2640,19 +2640,19 @@ msgstr ""
 "मशीन पर पोर्ट \"/system/proxy/https/host\" है कि आप प्रॉक्सी के माध्यम से "
 "परिभाषित किया गया किया."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:24
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:24
 msgid "FTP proxy host name"
 msgstr "एफ़टीपी प्रॉक्सी होस्ट नाम"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:25
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:25
 msgid "The machine name to proxy FTP through."
 msgstr "मशीन नाम जिससे प्रॉक्सी एफ़टीपी किया जाना है."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:26
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:26
 msgid "FTP proxy port"
 msgstr "एफ़टीपी प्रॉक्सी पोर्ट"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:27
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:27
 msgid ""
 "The port on the machine defined by \"/system/proxy/ftp/host\" that you proxy "
 "through."
@@ -2660,19 +2660,19 @@ msgstr ""
 "मशीन पर पोर्ट\"/system/proxy/ftp/host\" मेजबान है कि आप प्रॉक्सी के माध्यम से "
 "परिभाषित किया गया किया."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:28
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:28
 msgid "SOCKS proxy host name"
 msgstr "SOCKS प्राक्सी होस्ट नाम"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:29
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:29
 msgid "The machine name to use as a SOCKS proxy."
 msgstr "मशीन नाम एक सॉक्स प्रॉक्सी के रूप में उपयोग करने के लिए."
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:30
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:30
 msgid "SOCKS proxy port"
 msgstr "SOCKS प्राक्सी पोर्ट"
 
-#: ../schemas/io.github.scarecrow.system.proxy.gschema.xml.in.in.h:31
+#: ../schemas/io.github.scarecrow-de.system.proxy.gschema.xml.in.in.h:31
 msgid ""
 "The port on the machine defined by \"/system/proxy/socks/host\" that you "
 "proxy through."

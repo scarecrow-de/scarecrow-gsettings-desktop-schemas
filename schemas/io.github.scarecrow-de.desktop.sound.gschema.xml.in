@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow.desktop.sound" path="/io/github/scarecrow/desktop/sound/">
+  <schema id="io.github.scarecrow-de.desktop.sound" path="/io.github.scarecrow-de.desktop/sound/">
     <key name="event-sounds" type="b">
       <default>true</default>
       <summary>Sounds for events</summary>
