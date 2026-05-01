@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.peripherals" path="/io.github.scarecrow-de.desktop/peripherals/">
+  <schema id="io.github.scarecrow-de.desktop.peripherals" path="/io/github/scarecrow-de/desktop/peripherals/">
     <child name="touchpad" schema="io.github.scarecrow-de.desktop.peripherals.touchpad"/>
     <child name="keyboard" schema="io.github.scarecrow-de.desktop.peripherals.keyboard"/>
     <child name="mouse" schema="io.github.scarecrow-de.desktop.peripherals.mouse"/>
@@ -8,7 +8,7 @@
     <child name="tablet" schema="io.github.scarecrow-de.desktop.peripherals.tablet"/>
     <child name="touchscreen" schema="io.github.scarecrow-de.desktop.peripherals.touchscreen"/>
   </schema>
-  <schema id="io.github.scarecrow-de.desktop.peripherals.touchpad" path="/io.github.scarecrow-de.desktop/peripherals/touchpad/">
+  <schema id="io.github.scarecrow-de.desktop.peripherals.touchpad" path="/io/github/scarecrow-de/desktop/peripherals/touchpad/">
     <key name="edge-scrolling-enabled" type="b">
       <default>false</default>
       <summary>Whether edge scrolling is enabled</summary>
@@ -76,7 +76,7 @@
       <description>Set this to TRUE to enable middle click during simultaneous left and right click.</description>
     </key>
   </schema>
-  <schema id="io.github.scarecrow-de.desktop.peripherals.keyboard" path="/io.github.scarecrow-de.desktop/peripherals/keyboard/">
+  <schema id="io.github.scarecrow-de.desktop.peripherals.keyboard" path="/io/github/scarecrow-de/desktop/peripherals/keyboard/">
     <key name="repeat" type="b">
       <default>true</default>
       <summary>Keyboard repeat</summary>
@@ -103,7 +103,7 @@
       <description>The remembered state of the NumLock LED.</description>
     </key>
   </schema>
-  <schema id="io.github.scarecrow-de.desktop.peripherals.mouse" path="/io.github.scarecrow-de.desktop/peripherals/mouse/">
+  <schema id="io.github.scarecrow-de.desktop.peripherals.mouse" path="/io/github/scarecrow-de/desktop/peripherals/mouse/">
     <key name="left-handed" type="b">
       <default>false</default>
       <summary>Mouse button orientation</summary>
@@ -204,7 +204,7 @@
       <description>EDID information of the output the touchscreen is mapped to. Must be in the format [vendor, product, serial]. ["","",""] relies on automatic mapping.</description>
     </key>
   </schema>
-  <schema id="io.github.scarecrow-de.desktop.peripherals.trackball" path="/io.github.scarecrow-de.desktop/peripherals/trackball/">
+  <schema id="io.github.scarecrow-de.desktop.peripherals.trackball" path="/io/github/scarecrow-de/desktop/peripherals/trackball/">
     <key name="scroll-wheel-emulation-button" type="i">
       <default>0</default>
       <range min="0" max="24"/>

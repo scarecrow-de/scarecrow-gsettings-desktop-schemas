@@ -2,7 +2,7 @@
 <schemalist gettext-domain="gsettings-desktop-schemas">
 
   <schema id="io.github.scarecrow-de.desktop.a11y.magnifier"
-	  path="/io.github.scarecrow-de.desktop/a11y/magnifier/">
+	  path="/io/github/scarecrow-de/desktop/a11y/magnifier/">
     <key name="mouse-tracking" enum="io.github.scarecrow-de.desktop.GDesktopMagnifierMouseTrackingMode">
       <default>'proportional'</default>
       <summary>Mouse Tracking Mode</summary>

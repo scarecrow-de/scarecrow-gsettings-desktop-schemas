@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.a11y.keyboard" path="/io.github.scarecrow-de.desktop/a11y/keyboard/">
+  <schema id="io.github.scarecrow-de.desktop.a11y.keyboard" path="/io/github/scarecrow-de/desktop/a11y/keyboard/">
     <key name="enable" type="b">
       <default>false</default>
       <summary>Enable accessibility keyboard shortcuts</summary>

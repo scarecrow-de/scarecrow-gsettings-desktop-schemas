@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
   <schema id="io.github.scarecrow-de.system.location"
-          path="/io.github.scarecrow-de.system/location/">
+          path="/io/github/scarecrow-de/system/location/">
     <key type="b" name="enabled">
       <default>false</default>
       <summary>Geolocation services are enabled.</summary>

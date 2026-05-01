@@ -2,7 +2,7 @@
 <schemalist gettext-domain="gsettings-desktop-schemas">
 
   <schema id="io.github.scarecrow-de.desktop.wm.preferences"
-          path="/io.github.scarecrow-de.desktop/wm/preferences/">
+          path="/io/github/scarecrow-de/desktop/wm/preferences/">
     <key name="mouse-button-modifier" type="s">
       <default><![CDATA['<Super>']]></default>
       <summary>Modifier to use for modified window click actions</summary>

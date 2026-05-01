@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.interface" path="/io.github.scarecrow-de.desktop/interface/">
+  <schema id="io.github.scarecrow-de.desktop.interface" path="/io/github/scarecrow-de/desktop/interface/">
     <key name="toolkit-accessibility" type="b">
       <default>false</default>
       <summary>Enable Toolkit Accessibility</summary>

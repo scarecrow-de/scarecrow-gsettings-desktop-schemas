@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.screensaver" path="/io.github.scarecrow-de.desktop/screensaver/">
+  <schema id="io.github.scarecrow-de.desktop.screensaver" path="/io/github/scarecrow-de/desktop/screensaver/">
     <key name="idle-activation-enabled" type="b">
       <default>true</default>
       <summary>Activate when idle</summary>
