@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.screensaver" path="/io/github/scarecrow-de/desktop/screensaver/">
+  <schema id="io.github.scarecrow_de.desktop.screensaver" path="/io/github/scarecrow_de/desktop/screensaver/">
     <key name="idle-activation-enabled" type="b">
       <default>true</default>
       <summary>Activate when idle</summary>
@@ -8,7 +8,7 @@
         Set this to TRUE to activate the screensaver when the session is idle.
 
         DEPRECATED: This key is deprecated and ignored.
-        Set io.github.scarecrow-de.desktop.session idle-delay to 0 if you do not want to activate the screensaver.
+        Set io.github.scarecrow_de.desktop.session idle-delay to 0 if you do not want to activate the screensaver.
       </description>
     </key>
     <key name="lock-enabled" type="b">
@@ -85,7 +85,7 @@
         DEPRECATED: This key is deprecated and ignored.
       </description>
     </key>
-    <key name="picture-options" enum="io.github.scarecrow-de.desktop.GDesktopBackgroundStyle">
+    <key name="picture-options" enum="io.github.scarecrow_de.desktop.GDesktopBackgroundStyle">
       <default>'zoom'</default>
       <summary>Picture Options</summary>
       <description>
@@ -124,7 +124,7 @@
         Right or Bottom color when drawing gradients, not used for solid color.
       </description>
     </key>
-    <key name="color-shading-type" enum="io.github.scarecrow-de.desktop.GDesktopBackgroundShading">
+    <key name="color-shading-type" enum="io.github.scarecrow_de.desktop.GDesktopBackgroundShading">
       <default>'solid'</default>
       <summary>Color Shading Type</summary>
       <description>

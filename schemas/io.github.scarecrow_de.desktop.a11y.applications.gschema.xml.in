@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.a11y.applications" path="/io/github/scarecrow-de/desktop/a11y/applications/">
+  <schema id="io.github.scarecrow_de.desktop.a11y.applications" path="/io/github/scarecrow_de/desktop/a11y/applications/">
     <key name="screen-keyboard-enabled" type="b">
       <default>false</default>
       <summary>On-screen keyboard</summary>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.app-folders" path="/io/github/scarecrow-de/desktop/app-folders/">
+  <schema id="io.github.scarecrow_de.desktop.app-folders" path="/io/github/scarecrow_de/desktop/app-folders/">
     <key name="folder-children" type="as">
       <default>[]</default>
       <summary>Folder children</summary>
       <description>List of relative settings paths at which app-folders are
-        stored. Each folder uses the io.github.scarecrow-de.desktop.app-folders.folder
+        stored. Each folder uses the io.github.scarecrow_de.desktop.app-folders.folder
         schema.</description>
     </key>
   </schema>
-  <schema id="io.github.scarecrow-de.desktop.app-folders.folder">
+  <schema id="io.github.scarecrow_de.desktop.app-folders.folder">
     <key name="name" type="s">
       <default>''</default>
       <summary>Folder name</summary>

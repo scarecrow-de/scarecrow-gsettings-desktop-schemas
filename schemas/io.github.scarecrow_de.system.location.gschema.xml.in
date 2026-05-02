@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.system.location"
-          path="/io/github/scarecrow-de/system/location/">
+  <schema id="io.github.scarecrow_de.system.location"
+          path="/io/github/scarecrow_de/system/location/">
     <key type="b" name="enabled">
       <default>false</default>
       <summary>Geolocation services are enabled.</summary>
@@ -9,7 +9,7 @@
 	If true, applications are allowed to access location information.
       </description>
     </key>
-    <key name="max-accuracy-level" enum="io.github.scarecrow-de.desktop.GDesktopLocationAccuracyLevel">
+    <key name="max-accuracy-level" enum="io.github.scarecrow_de.desktop.GDesktopLocationAccuracyLevel">
       <default>'exact'</default>
       <summary>The maximum accuracy level of location.</summary>
       <description>

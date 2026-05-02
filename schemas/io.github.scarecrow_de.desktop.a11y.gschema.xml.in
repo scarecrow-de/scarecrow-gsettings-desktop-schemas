@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.a11y" path="/io/github/scarecrow-de/desktop/a11y/">
+  <schema id="io.github.scarecrow_de.desktop.a11y" path="/io/github/scarecrow_de/desktop/a11y/">
     <key name="always-show-universal-access-status" type="b">
       <default>false</default>
       <summary>Always show the Universal Access status icon</summary>

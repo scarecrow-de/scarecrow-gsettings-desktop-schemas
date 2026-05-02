@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.privacy" path="/io/github/scarecrow-de/desktop/privacy/">
+  <schema id="io.github.scarecrow_de.desktop.privacy" path="/io/github/scarecrow_de/desktop/privacy/">
     <key name="hide-identity" type="b">
       <default>false</default>
       <summary>Controls visibility of personal information</summary>
@@ -82,7 +82,7 @@
         usb-protection-level setting.
       </description>
     </key>
-    <key name="usb-protection-level" enum="io.github.scarecrow-de.desktop.GDesktopUsbProtection">
+    <key name="usb-protection-level" enum="io.github.scarecrow_de.desktop.GDesktopUsbProtection">
       <default>'lockscreen'</default>
       <summary>When USB devices should be rejected</summary>
       <description>

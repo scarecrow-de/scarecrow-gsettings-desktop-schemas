@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.lockdown" path="/io/github/scarecrow-de/desktop/lockdown/">
+  <schema id="io.github.scarecrow_de.desktop.lockdown" path="/io/github/scarecrow_de/desktop/lockdown/">
     <key name="disable-command-line" type="b">
       <default>false</default>
       <summary>Disable command line</summary>

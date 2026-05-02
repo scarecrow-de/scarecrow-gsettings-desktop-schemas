@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
 
-  <schema id="io.github.scarecrow-de.desktop.wm.keybindings"
-          path="/io/github/scarecrow-de/desktop/wm/keybindings/">
+  <schema id="io.github.scarecrow_de.desktop.wm.keybindings"
+          path="/io/github/scarecrow_de/desktop/wm/keybindings/">
     <key name="switch-to-workspace-1" type="as">
       <default><![CDATA[['<Super>Home']]]></default>
       <summary>Switch to workspace 1</summary>

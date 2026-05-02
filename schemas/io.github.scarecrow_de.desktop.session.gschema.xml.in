@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.session" path="/io/github/scarecrow-de/desktop/session/">
+  <schema id="io.github.scarecrow_de.desktop.session" path="/io/github/scarecrow_de/desktop/session/">
     <key name="idle-delay" type="u">
       <default>300</default>
       <summary>Time before session is considered idle</summary>

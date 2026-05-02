@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gsettings-desktop-schemas">
-  <schema id="io.github.scarecrow-de.desktop.media-handling" path="/io/github/scarecrow-de/desktop/media-handling/">
+  <schema id="io.github.scarecrow_de.desktop.media-handling" path="/io/github/scarecrow_de/desktop/media-handling/">
     <key name="automount" type="b">
       <default>true</default>
       <summary>Whether to automatically mount media</summary>

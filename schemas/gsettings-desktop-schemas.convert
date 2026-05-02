@@ -1,10 +1,10 @@
-# From io.github.scarecrow-de.desktop.background.gschema.xml.in
-# [io.github.scarecrow-de.desktop.background]
+# From io.github.scarecrow_de.desktop.background.gschema.xml.in
+# [io.github.scarecrow_de.desktop.background]
 # Disabled as we don't want to migrate the default background
 # settings as we can't convert the picture filename
 
-# From io.github.scarecrow-de.desktop-media-handling.gschema.xml.in
-[io.github.scarecrow-de.desktop.media-handling]
+# From io.github.scarecrow_de.desktop-media-handling.gschema.xml.in
+[io.github.scarecrow_de.desktop.media-handling]
 automount = /apps/nautilus/preferences/media_automount
 automount-open = /apps/nautilus/preferences/media_automount_open
 autorun-never = /apps/nautilus/preferences/media_autorun_never
@@ -12,21 +12,21 @@ autorun-x-content-start-app = /apps/nautilus/preferences/media_autorun_x_content
 autorun-x-content-ignore = /apps/nautilus/preferences/media_autorun_x_content_ignore
 autorun-x-content-open-folder = /apps/nautilus/preferences/media_autorun_x_content_open_folder
 
-# From io.github.scarecrow-de.desktop.default-applications.gschema.xml
-[io.github.scarecrow-de.desktop.default-applications.office.calendar]
+# From io.github.scarecrow_de.desktop.default-applications.gschema.xml
+[io.github.scarecrow_de.desktop.default-applications.office.calendar]
 exec = /desktop/gnome/applications/calendar/exec
 needs-term = /desktop/gnome/applications/calendar/needs_term
 
-[io.github.scarecrow-de.desktop.default-applications.office.tasks]
+[io.github.scarecrow_de.desktop.default-applications.office.tasks]
 exec = /desktop/gnome/applications/tasks/exec
 needs-term = /desktop/gnome/applications/tasks/needs_term
 
-[io.github.scarecrow-de.desktop.default-applications.terminal]
+[io.github.scarecrow_de.desktop.default-applications.terminal]
 exec = /desktop/gnome/applications/terminal/exec
 exec-arg = /desktop/gnome/applications/terminal/exec_arg
 
-# From io.github.scarecrow-de.desktop.interface.gschema.xml
-[io.github.scarecrow-de.desktop.interface]
+# From io.github.scarecrow_de.desktop.interface.gschema.xml
+[io.github.scarecrow_de.desktop.interface]
 toolkit-accessibility = /desktop/gnome/interface/accessibility
 enable-animations = /desktop/gnome/interface/enable_animations
 # Disabled, as we want users to use the new default:
@@ -59,8 +59,8 @@ gtk-color-palette = /desktop/gnome/gtk-color-palette
 # Disabled as we want users to use the default new theme colors
 #gtk-color-scheme = /desktop/gnome/interface/gtk_color_scheme
 
-# From io.github.scarecrow-de.desktop.lockdown.gschema.xml
-[io.github.scarecrow-de.desktop.lockdown]
+# From io.github.scarecrow_de.desktop.lockdown.gschema.xml
+[io.github.scarecrow_de.desktop.lockdown]
 disable-command-line = /desktop/gnome/lockdown/disable_command_line
 disable-save-to-disk = /desktop/gnome/lockdown/disable_save_to_disk
 disable-printing = /desktop/gnome/lockdown/disable_printing
@@ -70,14 +70,14 @@ disable-lock-screen = /desktop/gnome/lockdown/disable_lock_screen
 disable-application-handlers = /desktop/gnome/lockdown/disable_application_handlers
 disable-log-out = /apps/panel/global/disable_log_out
 
-# From io.github.scarecrow-de.system.proxy.gschema.xml
-[io.github.scarecrow-de.system.proxy]
+# From io.github.scarecrow_de.system.proxy.gschema.xml
+[io.github.scarecrow_de.system.proxy]
 mode = /system/proxy/mode
 autoconfig-url = /system/proxy/autoconfig_url
 ignore-hosts = /system/http_proxy/ignore_hosts
 use-same-proxy = /system/http_proxy/use_same_proxy
 
-[io.github.scarecrow-de.system.proxy.http]
+[io.github.scarecrow_de.system.proxy.http]
 enabled = /system/http_proxy/use_http_proxy
 host = /system/http_proxy/host
 port = /system/http_proxy/port
@@ -85,31 +85,31 @@ use-authentication = /system/http_proxy/use_authentication
 authentication-user = /system/http_proxy/authentication_user
 authentication-password = /system/http_proxy/authentication_password
 
-[io.github.scarecrow-de.system.proxy.https]
+[io.github.scarecrow_de.system.proxy.https]
 host = /system/proxy/secure_host
 port = /system/proxy/secure_port
 
-[io.github.scarecrow-de.system.proxy.ftp]
+[io.github.scarecrow_de.system.proxy.ftp]
 host = /system/proxy/ftp_host
 port = /system/proxy/ftp_port
 
-[io.github.scarecrow-de.system.proxy.socks]
+[io.github.scarecrow_de.system.proxy.socks]
 host = /system/proxy/socks_host
 port = /system/proxy/socks_port
 
-# From io.github.scarecrow-de.desktop.thumbnail-cache.gschema.xml
-[io.github.scarecrow-de.desktop.thumbnail-cache]
+# From io.github.scarecrow_de.desktop.thumbnail-cache.gschema.xml
+[io.github.scarecrow_de.desktop.thumbnail-cache]
 maximum-age = /desktop/gnome/thumbnail_cache/maximum_age
 maximum-size = /desktop/gnome/thumbnail_cache/maximum_size
 
-# From io.github.scarecrow-de.desktop.sound.gschema.xml
-[io.github.scarecrow-de.desktop.sound]
+# From io.github.scarecrow_de.desktop.sound.gschema.xml
+[io.github.scarecrow_de.desktop.sound]
 event-sounds = /desktop/gnome/sound/event_sounds
 theme-name = /desktop/gnome/sound/theme_name
 input-feedback-sounds = /desktop/gnome/sound/input_feedback_sounds
 
-# From io.github.scarecrow-de.desktop.a11y.keyboard.gschema.xml
-[io.github.scarecrow-de.desktop.a11y.keyboard]
+# From io.github.scarecrow_de.desktop.a11y.keyboard.gschema.xml
+[io.github.scarecrow_de.desktop.a11y.keyboard]
 enable = /desktop/gnome/accessibility/keyboard/enable
 feature-state-change-beep = /desktop/gnome/accessibility/keyboard/feature_state_change_beep
 timeout-enable = /desktop/gnome/accessibility/keyboard/timeout_enable
@@ -131,14 +131,14 @@ stickykeys-two-key-off = /desktop/gnome/accessibility/keyboard/stickykeys_two_ke
 stickykeys-modifier-beep = /desktop/gnome/accessibility/keyboard/stickykeys_modifier_beep
 togglekeys-enable = /desktop/gnome/accessibility/keyboard/togglekeys_enable
 
-# From io.github.scarecrow-de.desktop.a11y.applications.gschema.xml
-[io.github.scarecrow-de.desktop.a11y.applications]
+# From io.github.scarecrow_de.desktop.a11y.applications.gschema.xml
+[io.github.scarecrow_de.desktop.a11y.applications]
 screen-keyboard-enabled = /desktop/gnome/applications/at/screen_keyboard_enabled
 screen-magnifier-enabled = /desktop/gnome/applications/at/screen_magnifier_enabled
 screen-reader-enabled = /desktop/gnome/applications/at/screen_reader_enabled
 
-# From io.github.scarecrow-de.desktop.a11y.mouse
-[io.github.scarecrow-de.desktop.a11y.mouse]
+# From io.github.scarecrow_de.desktop.a11y.mouse
+[io.github.scarecrow_de.desktop.a11y.mouse]
 dwell-gesture-single = /desktop/gnome/accessibility/mouse/dwell_gesture_single
 dwell-gesture-double = /desktop/gnome/accessibility/mouse/dwell_gesture_double
 dwell-gesture-drag = /desktop/gnome/accessibility/mouse/dwell_gesture_drag
@@ -151,15 +151,15 @@ dwell-click-enabled = /desktop/gnome/accessibility/mouse/dwell_enable
 secondary-click-enabled = /desktop/gnome/accessibility/mouse/delay_enable
 secondary-click-time = /desktop/gnome/accessibility/mouse/delay_time
 
-# From io.github.scarecrow-de.desktop.thumbnailers
-[io.github.scarecrow-de.desktop.thumbnailers]
+# From io.github.scarecrow_de.desktop.thumbnailers
+[io.github.scarecrow_de.desktop.thumbnailers]
 disable-all = /desktop/gnome/thumbnailers/disable_all
 
-# From io.github.scarecrow-de.desktop.peripherals.gschema.xml
-[io.github.scarecrow-de.desktop.peripherals.touchpad]
+# From io.github.scarecrow_de.desktop.peripherals.gschema.xml
+[io.github.scarecrow_de.desktop.peripherals.touchpad]
 tap-to-click = /desktop/gnome/peripherals/touchpad/tap_to_click
 speed = /desktop/gnome/peripherals/mouse/motion_acceleration
 
-[io.github.scarecrow-de.desktop.peripherals.mouse]
+[io.github.scarecrow_de.desktop.peripherals.mouse]
 left-handed = /desktop/gnome/peripherals/mouse/left_handed
 speed = /desktop/gnome/peripherals/mouse/motion_acceleration
