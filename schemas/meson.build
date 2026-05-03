@@ -51,7 +51,7 @@ endforeach
 install_data(generated_schemas, install_dir: schemasdir)
 
 install_data(
-  'gsettings-desktop-schemas.convert',
-  'wm-schemas.convert',
+  'scarecrow-gsettings-desktop-schemas.convert',
+  'scarecrow-wm-schemas.convert',
   install_dir: join_paths(datadir, 'GConf', 'gsettings'),
 )

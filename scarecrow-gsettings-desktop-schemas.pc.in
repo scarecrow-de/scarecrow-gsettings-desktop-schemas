@@ -1,6 +1,6 @@
 prefix=@prefix@
 
-Name: gsettings-desktop-schemas
+Name: scarecrow-gsettings-desktop-schemas
 Description: Shared GSettings schemas for the desktop, including helper headers
 Version: @VERSION@
-Cflags: -I@includedir@/gsettings-desktop-schemas
+Cflags: -I@includedir@/scarecrow-gsettings-desktop-schemas

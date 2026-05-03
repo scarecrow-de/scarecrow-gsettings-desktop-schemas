@@ -1,5 +1,5 @@
 project(
-  'gsettings-desktop-schemas', 'c',
+  'scarecrow-gsettings-desktop-schemas', 'c',
   version: '3.38.1',
   default_options: [
     'warning_level=2'
@@ -36,10 +36,10 @@ conf.set('VERSION', meson.project_version())
 conf.set('includedir', includedir)
 
 pkg = configure_file(configuration: conf,
-                     input: 'gsettings-desktop-schemas.pc.in',
+                     input: 'scarecrow-gsettings-desktop-schemas.pc.in',
                      install: true,
                      install_dir: join_paths(datadir, 'pkgconfig'),
-                     output: 'gsettings-desktop-schemas.pc')
+                     output: 'scarecrow-gsettings-desktop-schemas.pc')
 
 glib_mkenums = find_program('glib-mkenums')
 
