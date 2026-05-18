@@ -1,5 +1,5 @@
 headers = files(
-  'gdesktop-enums.h'
+  'scdesktop-enums.h'
 )
 
 install_headers(headers, subdir: gsettings_desktop_schemas_name)
@@ -34,8 +34,8 @@ if get_option('introspection')
 
   gnome.generate_gir(noinst_lib,
     sources: headers,
-    namespace: 'GDesktopEnums',
-    identifier_prefix: 'GDesktop',
+    namespace: 'ScDesktopEnums',
+    identifier_prefix: 'ScDesktop',
     nsversion : '3.0',
     install: true,
     extra_args: [
